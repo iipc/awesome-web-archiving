@@ -95,6 +95,8 @@ To the extent possible under law, the owner has waived all copyright and related
 
 * [Warcat](https://github.com/chfoo/warcat) (Stable) - Tool and library for handling Web ARChive (WARC) files.
 
+* [WarcPartitioner](https://github.com/helgeho/WarcPartitioner) (Stable) - Partition (W)ARC Files by MIME Type and Year
+
 #### Analysis
 
 * [ArchiveSpark](https://github.com/helgeho/ArchiveSpark) (Stable) - An Apache Spark framework (not only) for Web Archives that enables easy data processing, extraction as well as derivation.
