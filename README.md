@@ -105,20 +105,27 @@ To the extent possible under law, the owner has waived all copyright and related
 
 ### Community Resources
 
+#### Blogs and Scholarship
+
+* [IIPC Blog](https://netpreserveblog.wordpress.com/)
+* [Web Archiving Roundtable](https://webarchivingrt.wordpress.com/) - Currently dormant, but is a great archive of web archiving resources and links.
+* [The Web as History](http://www.ucl.ac.uk/ucl-press/browse-books/the-web-as-history) - An open-source book that provides a conceptual overview to web archiving research, as well as several case studies.
+
 #### Mailing Lists
 
 * [IIPC](http://netpreserve.org/about-us/iipc-mailing-list/)
 * [OpenWayback](https://groups.google.com/forum/#!forum/openwayback-dev)
 * [WASAPI](https://groups.google.com/forum/#!forum/wasapi-community)
 
+#### Slack
+
+* Ask [@netpreserve](https://twitter.com/NetPreserve) for access to the [IIPC Slack](https://iipc.slack.com/)
+* Ask [@ianmilligan1](https://twitter.com/ianmilligan1) for access to the [Archives Unleashed Slack](https://archivesunleashed.slack.com/), a researcher group of people working with web archives.
+
 #### Twitter
 
 * [IIPC](https://twitter.com/NetPreserve)
 * [#webarchives](https://twitter.com/search?f=tweets&vertical=default&q=%23webarchives&src=typd)
-
-#### Slack
-
-* Ask [@netpreserve](https://twitter.com/NetPreserve) for access to the [IIPC Slack](https://iipc.slack.com/)
 
 ----
 
