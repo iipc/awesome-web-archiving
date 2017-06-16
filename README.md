@@ -82,6 +82,9 @@ To the extent possible under law, the owner has waived all copyright and related
 
 * [OpenWayback](https://github.com/iipc/openwayback/) (Stable) - The open source project aimed to develop Wayback Machine, the key software used by web archives worldwide to play back archived websites in the user's browser.
 
+* [Webrecorder Player](https://github.com/webrecorder/webrecorderplayer-electron) Webrecorder Player for Desktop OSX/Windows/Linux). (Built with Electron + Webrecorder)
+
+
 #### Utilities
 
 * [Jwat](https://sbforge.org/display/JWAT/JWAT) (Stable) - Libraries and tools for reading/writting/validating WARC/ARC/GZIP files.
