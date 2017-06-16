@@ -2,9 +2,10 @@
 
 ## Introduction
 
-An Awesome List for getting started with web archiving. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
+An [Awesome List](https://github.com/sindresorhus/awesome/blob/master/awesome.md) for getting started with web archiving. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Table of Contents
+
    * [Training/Documentation](#)
    * [Tools & Software](#)
    * [Community Resources](#)
@@ -84,7 +85,7 @@ To the extent possible under law, the owner has waived all copyright and related
 
 * [Warcat](https://github.com/chfoo/warcat) (Stable) - Tool and library for handling Web ARChive (WARC) files.
 
-### Analysis
+#### Analysis
 
 * [ArchiveSpark](https://github.com/helgeho/ArchiveSpark) (Stable) - An Apache Spark framework (not only) for Web Archives that enables easy data processing, extraction as well as derivation.
 
@@ -102,6 +103,12 @@ To the extent possible under law, the owner has waived all copyright and related
 
 * [IIPC](https://twitter.com/NetPreserve)
 * [#webarchives](https://twitter.com/search?f=tweets&vertical=default&q=%23webarchives&src=typd)
+
+#### Slack
+
+* Ask [@netpreserve](https://twitter.com/NetPreserve) for access to the [IIPC Slack](https://iipc.slack.com/)
+
+----
 
 ### Deprecated
 
