@@ -115,6 +115,13 @@ To the extent possible under law, the owner has waived all copyright and related
 #### Slack
 
 * Ask [@netpreserve](https://twitter.com/NetPreserve) for access to the [IIPC Slack](https://iipc.slack.com/)
+* Ask [@ianmilligan1](https://twitter.com/ianmilligan1) for access to the [Archives Unleashed Slack](https://archivesunleashed.slack.com/), a researcher group of people working with web archives.
+
+#### Blogs and Scholarship
+
+* [IIPC Blog](https://netpreserveblog.wordpress.com/)
+* [Web Archiving Roundtable](https://webarchivingrt.wordpress.com/) - Currently dormant, but is a great archive of web archiving resources and links.
+* [The Web as History](http://www.ucl.ac.uk/ucl-press/browse-books/the-web-as-history) - An open-source book that provides a conceptual overview to web archiving research, as well as several case studies.
 
 ----
 
