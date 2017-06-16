@@ -32,8 +32,9 @@ To the extent possible under law, the owner has waived all copyright and related
 
 ### Training/Documentation
 
+* [Awesome Memento](https://github.com/machawk1/awesome-memento)
 * [Glossary of Archive-It and Web Archiving Terms](https://support.archive-it.org/hc/en-us/articles/208111686-Glossary-of-Archive-It-and-Web-Archiving-Terms)
-* [The WARC Ecosystem](http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem) - Everything about the WARC format and the tools that support it.
+* [The WARC Ecosystem](http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem)
 
 ### Tools & Software
 
@@ -90,6 +91,17 @@ To the extent possible under law, the owner has waived all copyright and related
 * [warcbase](http://warcbase.org/) (Stable) - Warcbase is an open-source platform for managing analyzing web archives.
 
 ### Community Resources
+
+#### Mailing Lists
+
+* [IIPC](http://netpreserve.org/about-us/iipc-mailing-list/)
+* [OpenWayback](https://groups.google.com/forum/#!forum/openwayback-dev)
+* [WASAPI](https://groups.google.com/forum/#!forum/wasapi-community)
+
+#### Twitter
+
+* [IIPC](https://twitter.com/NetPreserve)
+* [#webarchives](https://twitter.com/search?f=tweets&vertical=default&q=%23webarchives&src=typd)
 
 ### Deprecated
 
