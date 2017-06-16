@@ -33,9 +33,12 @@ To the extent possible under law, the owner has waived all copyright and related
 
 ### Training/Documentation
 
-* [Awesome Memento](https://github.com/machawk1/awesome-memento)
-* [Glossary of Archive-It and Web Archiving Terms](https://support.archive-it.org/hc/en-us/articles/208111686-Glossary-of-Archive-It-and-Web-Archiving-Terms)
-* [The WARC Ecosystem](http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem)
+* Introductions to web archiving concepts:
+    * [What is a web archive?](https://youtu.be/ubDHY-ynWi0) video from [the UK Web Archive YouTube Channel](https://www.youtube.com/channel/UCJukhTSw8VRj-VNTpBcqWkw)
+    * [Glossary of Archive-It and Web Archiving Terms](https://support.archive-it.org/hc/en-us/articles/208111686-Glossary-of-Archive-It-and-Web-Archiving-Terms)
+* More advanced material:
+    * [Awesome Memento](https://github.com/machawk1/awesome-memento)
+    * [The WARC Ecosystem](http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem)
 
 ### Tools & Software
 
