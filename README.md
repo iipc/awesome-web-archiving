@@ -66,8 +66,6 @@ To the extent possible under law, the owner has waived all copyright and related
 
 * [WAIL](https://machawk1.github.io/wail/) (Stable) - A graphical user interface (GUI) atop multiple web archiving tools intended to be used as an easy way for anyone to preserve and replay web pages; [Python](https://machawk1.github.io/wail/), [Electron](https://github.com/n0tan3rd/wail).
 
-* [Web2Warc](https://github.com/helgeho/Web2Warc) (Stable) - An easy-to-use and highly customizable crawler that enables anyone to create their own little Web archives (WARC/CDX).
-
 * [Webrecorder](https://webrecorder.io/) (Stable) - Create high-fidelity, interactive recordings of any web site you browse.
 
 * [Wget](http://www.gnu.org/software/wget/) (Stable) - An open source file retrieval utility that of [version 1.14 supports writing warcs](http://www.archiveteam.org/index.php?title=Wget_with_WARC_output).
@@ -88,6 +86,8 @@ To the extent possible under law, the owner has waived all copyright and related
 
 
 #### Utilities
+
+* [HadoopConcatGz](https://github.com/helgeho/HadoopConcatGz) (Stable) - A Splitable Hadoop InputFormat for Concatenated GZIP Files (and *.warc.gz)
 
 * [Jwat](https://sbforge.org/display/JWAT/JWAT) (Stable) - Libraries and tools for reading/writting/validating WARC/ARC/GZIP files.
 
