@@ -6,10 +6,10 @@ An [Awesome List](https://github.com/sindresorhus/awesome/blob/master/awesome.md
 
 ## Table of Contents
 
-   * [Training/Documentation](#)
-   * [Tools & Software](#)
-   * [Community Resources](#)
-   * [Deprecated](#)
+   * [Training/Documentation](#trainingdocumentation)
+   * [Tools & Software](#tools--software)
+   * [Community Resources](#community-resources)
+   * [Deprecated](#deprecated)
 
 ## Contribute
 
