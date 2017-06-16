@@ -65,6 +65,10 @@ To the extent possible under law, the owner has waived all copyright and related
 
 * [Wget](http://www.gnu.org/software/wget/) (Stable) - An open source file retrieval utility that of [version 1.14 supports writing warcs](http://www.archiveteam.org/index.php?title=Wget_with_WARC_output).
 
+* [Wget-lua](https://github.com/alard/wget-lua) (Stable) - Wget with Lua extension.
+
+* [Wpull](https://github.com/chfoo/wpull) (Stable) - A Wget-compatible (or remake/clone/replacement/alternative) web downloader and crawler.
+
 ## Analysis
 
 * [ArchiveSpark](https://github.com/helgeho/ArchiveSpark) (Stable) - An Apache Spark framework (not only) for Web Archives that enables easy data processing, extraction as well as derivation.
