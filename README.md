@@ -89,6 +89,8 @@ To the extent possible under law, the owner has waived all copyright and related
 
 #### Utilities
 
+* [HadoopConcatGz](https://github.com/helgeho/HadoopConcatGz) (Stable) - A Splitable Hadoop InputFormat for Concatenated GZIP Files (and *.warc.gz)
+
 * [Jwat](https://sbforge.org/display/JWAT/JWAT) (Stable) - Libraries and tools for reading/writting/validating WARC/ARC/GZIP files.
 
 * [Warcat](https://github.com/chfoo/warcat) (Stable) - Tool and library for handling Web ARChive (WARC) files.
