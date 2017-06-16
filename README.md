@@ -69,6 +69,10 @@ To the extent possible under law, the owner has waived all copyright and related
 
 * [Wpull](https://github.com/chfoo/wpull) (Stable) - A Wget-compatible (or remake/clone/replacement/alternative) web downloader and crawler.
 
+* [Warcat](https://github.com/chfoo/warcat) - Tool and library for handling Web ARChive (WARC) files.
+
+* [Jwat](https://sbforge.org/display/JWAT/JWAT) - Java Web Archive Toolkit
+
 ## Analysis
 
 * [ArchiveSpark](https://github.com/helgeho/ArchiveSpark) (Stable) - An Apache Spark framework (not only) for Web Archives that enables easy data processing, extraction as well as derivation.
