@@ -78,8 +78,6 @@ To the extent possible under law, the owner has waived all copyright and related
 
 * [Wpull](https://github.com/chfoo/wpull) (Stable) - A Wget-compatible (or remake/clone/replacement/alternative) web downloader and crawler.
 
-* [Warcat](https://github.com/chfoo/warcat) - Tool and library for handling Web ARChive (WARC) files.
-
 #### Replay
 
 * [PyWb](https://github.com/ikreymer/pywb) (Stable) - A Python (2 and 3) implementation of web archival replay tools, sometimes also known as 'Wayback Machine'.
