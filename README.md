@@ -78,8 +78,6 @@ To the extent possible under law, the owner has waived all copyright and related
 
 * [Wpull](https://github.com/chfoo/wpull) (Stable) - A Wget-compatible (or remake/clone/replacement/alternative) web downloader and crawler.
 
-* [Warcat](https://github.com/chfoo/warcat) - Tool and library for handling Web ARChive (WARC) files.
-
 #### Replay
 
 * [PyWb](https://github.com/ikreymer/pywb) (Stable) - A Python (2 and 3) implementation of web archival replay tools, sometimes also known as 'Wayback Machine'.
@@ -107,6 +105,10 @@ To the extent possible under law, the owner has waived all copyright and related
 * [wasapi-downloader](https://github.com/sul-dlss/wasapi-downloader) (Stable) - Java command line application to download crawls from WASAPI.
 
 * [WarcPartitioner](https://github.com/helgeho/WarcPartitioner) (Stable) - Partition (W)ARC Files by MIME Type and Year
+
+* [webarchive-indexing](https://github.com/ikreymer/webarchive-indexing) - Tools for bulk indexing of WARC/ARC files on Hadoop, EMR or local file system.
+
+* [The Archive Browser](https://archivebrowser.c3.cx/) - The Archive Browser is a program that lets you browse the contents of archives, as well as extract them. It will let you open files from inside archives, and lets you preview them using Quick Look. WARC is supported. (OSX only, Proprietary app)
 
 #### Analysis
 
