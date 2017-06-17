@@ -97,6 +97,8 @@ To the extent possible under law, the owner has waived all copyright and related
 
 * [Warcat](https://github.com/chfoo/warcat) (Stable) - Tool and library for handling Web ARChive (WARC) files.
 
+* [wasapi-downloader](https://github.com/sul-dlss/wasapi-downloader) (Stable) - Java command line application to download crawls from WASAPI.
+
 * [WarcPartitioner](https://github.com/helgeho/WarcPartitioner) (Stable) - Partition (W)ARC Files by MIME Type and Year
 
 #### Analysis
