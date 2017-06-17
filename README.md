@@ -86,6 +86,13 @@ To the extent possible under law, the owner has waived all copyright and related
 
 * [Webrecorder Player](https://github.com/webrecorder/webrecorderplayer-electron) Webrecorder Player for Desktop OSX/Windows/Linux). (Built with Electron + Webrecorder)
 
+#### Search & Discovery
+
+* [Shine](https://github.com/ukwa/shine) (Stable) - A prototype web archives exploration UI, based on a Solr back-end that has been populated using the [warc-discovery]() indexer.
+
+* [warc-discovery](https://github.com/ukwa/webarchive-discovery) (Stable) - WARC and ARC indexing and discovery tools.
+
+* [WARClight](https://github.com/web-archive-group/warclight) (In Development) - Blacklight instance operating on WARCs indexed using [warc-discovery](https://github.com/ukwa/webarchive-discovery)
 
 #### Utilities
 
