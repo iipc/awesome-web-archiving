@@ -38,7 +38,9 @@ To the extent possible under law, the owner has waived all copyright and related
     * [Glossary of Archive-It and Web Archiving Terms](https://support.archive-it.org/hc/en-us/articles/208111686-Glossary-of-Archive-It-and-Web-Archiving-Terms)
 * More advanced material:
     * [Awesome Memento](https://github.com/machawk1/awesome-memento)
+    * [docs.warcbase.org](https://lintool.github.io/warcbase-docs/)
     * [The WARC Ecosystem](http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem)
+    * [warcbase workshop](https://github.com/web-archive-group/warcbase_workshop_vagrant)
 
 ### Tools & Software
 
@@ -51,6 +53,8 @@ To the extent possible under law, the owner has waived all copyright and related
 * [F(b)arc](https://github.com/justinlittman/fbarc) (Stable) - A commandline tool and Python library for archiving data from [Facebook](https://www.facebook.com/) using the [Graph API](https://developers.facebook.com/docs/graph-api).
  
 * [Heritrix](https://webarchive.jira.com/wiki/display/Heritrix/Heritrix) (Stable) - An open source, extensible, web-scale, archival quality web crawler.
+
+* [html2warc](https://github.com/steffenfritz/html2warc) (Stable) - A simple script to covert offline data into a single warc file
 
 * [grab-site](https://github.com/ludios/grab-site) (Stable) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns.
 
@@ -76,8 +80,6 @@ To the extent possible under law, the owner has waived all copyright and related
 
 * [Wpull](https://github.com/chfoo/wpull) (Stable) - A Wget-compatible (or remake/clone/replacement/alternative) web downloader and crawler.
 
-* [Warcat](https://github.com/chfoo/warcat) - Tool and library for handling Web ARChive (WARC) files.
-
 #### Replay
 
 * [PyWb](https://github.com/ikreymer/pywb) (Stable) - A Python (2 and 3) implementation of web archival replay tools, sometimes also known as 'Wayback Machine'.
@@ -86,12 +88,29 @@ To the extent possible under law, the owner has waived all copyright and related
 
 * [Webrecorder Player](https://github.com/webrecorder/webrecorderplayer-electron) Webrecorder Player for Desktop OSX/Windows/Linux). (Built with Electron + Webrecorder)
 
+#### Search & Discovery
+
+* [Shine](https://github.com/ukwa/shine) (Stable) - A prototype web archives exploration UI, based on a Solr back-end that has been populated using the [warc-discovery]() indexer.
+
+* [warc-discovery](https://github.com/ukwa/webarchive-discovery) (Stable) - WARC and ARC indexing and discovery tools.
+
+* [WARClight](https://github.com/web-archive-group/warclight) (In Development) - Blacklight instance operating on WARCs indexed using [warc-discovery](https://github.com/ukwa/webarchive-discovery)
 
 #### Utilities
+
+* [HadoopConcatGz](https://github.com/helgeho/HadoopConcatGz) (Stable) - A Splitable Hadoop InputFormat for Concatenated GZIP Files (and *.warc.gz)
 
 * [Jwat](https://sbforge.org/display/JWAT/JWAT) (Stable) - Libraries and tools for reading/writting/validating WARC/ARC/GZIP files.
 
 * [Warcat](https://github.com/chfoo/warcat) (Stable) - Tool and library for handling Web ARChive (WARC) files.
+
+* [wasapi-downloader](https://github.com/sul-dlss/wasapi-downloader) (Stable) - Java command line application to download crawls from WASAPI.
+
+* [WarcPartitioner](https://github.com/helgeho/WarcPartitioner) (Stable) - Partition (W)ARC Files by MIME Type and Year
+
+* [webarchive-indexing](https://github.com/ikreymer/webarchive-indexing) - Tools for bulk indexing of WARC/ARC files on Hadoop, EMR or local file system.
+
+* [The Archive Browser](https://archivebrowser.c3.cx/) - The Archive Browser is a program that lets you browse the contents of archives, as well as extract them. It will let you open files from inside archives, and lets you preview them using Quick Look. WARC is supported. (OSX only, Proprietary app)
 
 #### Analysis
 
@@ -101,20 +120,27 @@ To the extent possible under law, the owner has waived all copyright and related
 
 ### Community Resources
 
+#### Blogs and Scholarship
+
+* [IIPC Blog](https://netpreserveblog.wordpress.com/)
+* [Web Archiving Roundtable](https://webarchivingrt.wordpress.com/) - Currently dormant, but is a great archive of web archiving resources and links.
+* [The Web as History](http://www.ucl.ac.uk/ucl-press/browse-books/the-web-as-history) - An open-source book that provides a conceptual overview to web archiving research, as well as several case studies.
+
 #### Mailing Lists
 
 * [IIPC](http://netpreserve.org/about-us/iipc-mailing-list/)
 * [OpenWayback](https://groups.google.com/forum/#!forum/openwayback-dev)
 * [WASAPI](https://groups.google.com/forum/#!forum/wasapi-community)
 
+#### Slack
+
+* Ask [@netpreserve](https://twitter.com/NetPreserve) for access to the [IIPC Slack](https://iipc.slack.com/)
+* Ask [@ianmilligan1](https://twitter.com/ianmilligan1) for access to the [Archives Unleashed Slack](https://archivesunleashed.slack.com/), a researcher group of people working with web archives.
+
 #### Twitter
 
 * [IIPC](https://twitter.com/NetPreserve)
 * [#webarchives](https://twitter.com/search?f=tweets&vertical=default&q=%23webarchives&src=typd)
-
-#### Slack
-
-* Ask [@netpreserve](https://twitter.com/NetPreserve) for access to the [IIPC Slack](https://iipc.slack.com/)
 
 ----
 
