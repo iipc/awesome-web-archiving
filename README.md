@@ -52,11 +52,11 @@ To the extent possible under law, the owner has waived all copyright and related
 
 * [F(b)arc](https://github.com/justinlittman/fbarc) (Stable) - A commandline tool and Python library for archiving data from [Facebook](https://www.facebook.com/) using the [Graph API](https://developers.facebook.com/docs/graph-api).
  
+* [grab-site](https://github.com/ludios/grab-site) (Stable) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns.
+
 * [Heritrix](https://webarchive.jira.com/wiki/display/Heritrix/Heritrix) (Stable) - An open source, extensible, web-scale, archival quality web crawler.
 
 * [html2warc](https://github.com/steffenfritz/html2warc) (Stable) - A simple script to covert offline data into a single warc file
-
-* [grab-site](https://github.com/ludios/grab-site) (Stable) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns.
 
 * [HTTrack](http://www.httrack.com/) (Stable) - An open source website copying utility.
 
