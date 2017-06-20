@@ -39,6 +39,7 @@ To the extent possible under law, the owner has waived all copyright and related
 * More advanced material:
     * [Awesome Memento](https://github.com/machawk1/awesome-memento)
     * [docs.warcbase.org](https://lintool.github.io/warcbase-docs/)
+    * [Heritrix Walkthrough](https://github.com/web-archive-group/heritrix-walkthrough) (In development)
     * [The WARC Ecosystem](http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem)
     * [warcbase workshop](https://github.com/web-archive-group/warcbase_workshop_vagrant)
 
