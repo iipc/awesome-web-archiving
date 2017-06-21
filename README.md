@@ -39,6 +39,7 @@ To the extent possible under law, the owner has waived all copyright and related
 * More advanced material:
     * [Awesome Memento](https://github.com/machawk1/awesome-memento)
     * [docs.warcbase.org](https://lintool.github.io/warcbase-docs/)
+    * [Heritrix Walkthrough](https://github.com/web-archive-group/heritrix-walkthrough) (In development)
     * [The WARC Ecosystem](http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem)
     * [warcbase workshop](https://github.com/web-archive-group/warcbase_workshop_vagrant)
 
@@ -52,11 +53,11 @@ To the extent possible under law, the owner has waived all copyright and related
 
 * [F(b)arc](https://github.com/justinlittman/fbarc) (Stable) - A commandline tool and Python library for archiving data from [Facebook](https://www.facebook.com/) using the [Graph API](https://developers.facebook.com/docs/graph-api).
  
+* [grab-site](https://github.com/ludios/grab-site) (Stable) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns.
+
 * [Heritrix](https://webarchive.jira.com/wiki/display/Heritrix/Heritrix) (Stable) - An open source, extensible, web-scale, archival quality web crawler.
 
 * [html2warc](https://github.com/steffenfritz/html2warc) (Stable) - A simple script to covert offline data into a single warc file
-
-* [grab-site](https://github.com/ludios/grab-site) (Stable) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns.
 
 * [HTTrack](http://www.httrack.com/) (Stable) - An open source website copying utility.
 
@@ -111,6 +112,8 @@ To the extent possible under law, the owner has waived all copyright and related
 * [webarchive-indexing](https://github.com/ikreymer/webarchive-indexing) - Tools for bulk indexing of WARC/ARC files on Hadoop, EMR or local file system.
 
 * [The Archive Browser](https://archivebrowser.c3.cx/) - The Archive Browser is a program that lets you browse the contents of archives, as well as extract them. It will let you open files from inside archives, and lets you preview them using Quick Look. WARC is supported. (OSX only, Proprietary app)
+
+* [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Program to extract the contents of many archive formats, inclusive of WARC, to a file system. Free variant of The Archive Browser. (OSX only, Proprietary app)
 
 #### Analysis
 
