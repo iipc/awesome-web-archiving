@@ -101,19 +101,29 @@ To the extent possible under law, the owner has waived all copyright and related
 
 * [HadoopConcatGz](https://github.com/helgeho/HadoopConcatGz) (Stable) - A Splitable Hadoop InputFormat for Concatenated GZIP Files (and *.warc.gz)
 
-* [Jwat](https://sbforge.org/display/JWAT/JWAT) (Stable) - Libraries and tools for reading/writting/validating WARC/ARC/GZIP files.
+* [har2warc](https://github.com/webrecorder/har2warc) - Convert HTTP Archive (HAR) -> Web Archive (WARC) format. (Python)
 
-* [Warcat](https://github.com/chfoo/warcat) (Stable) - Tool and library for handling Web ARChive (WARC) files.
+* [Jwat](https://sbforge.org/display/JWAT/JWAT) (Stable) - Libraries and tools for reading/writting/validating WARC/ARC/GZIP files. (Java)
+
+* [node-warc](https://github.com/N0taN3rd/node-warc) - Parse Web ARChive (WARC) files with node.js
+
+* [The Archive Browser](https://archivebrowser.c3.cx/) - The Archive Browser is a program that lets you browse the contents of archives, as well as extract them. It will let you open files from inside archives, and lets you preview them using Quick Look. WARC is supported. (OSX only, Proprietary app)
+
+* [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Program to extract the contents of many archive formats, inclusive of WARC, to a file system. Free variant of The Archive Browser. (OSX only, Proprietary app)
+
+* [Warcat](https://github.com/chfoo/warcat) (Stable) - Tool and library for handling Web ARChive (WARC) files. (Python)
+
+* [warcio](https://github.com/webrecorder/warcio) - Streaming WARC/ARC library for fast web archive IO. (Python)
+
+* [warctools](https://github.com/internetarchive/warctools) - library to work with ARC and WARC files. (Python)
 
 * [wasapi-downloader](https://github.com/sul-dlss/wasapi-downloader) (Stable) - Java command line application to download crawls from WASAPI.
 
 * [WarcPartitioner](https://github.com/helgeho/WarcPartitioner) (Stable) - Partition (W)ARC Files by MIME Type and Year
 
+* [webarchive](https://github.com/richardlehane/webarchive) - golang readers for ARC and WARC webarchive formats
+
 * [webarchive-indexing](https://github.com/ikreymer/webarchive-indexing) - Tools for bulk indexing of WARC/ARC files on Hadoop, EMR or local file system.
-
-* [The Archive Browser](https://archivebrowser.c3.cx/) - The Archive Browser is a program that lets you browse the contents of archives, as well as extract them. It will let you open files from inside archives, and lets you preview them using Quick Look. WARC is supported. (OSX only, Proprietary app)
-
-* [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Program to extract the contents of many archive formats, inclusive of WARC, to a file system. Free variant of The Archive Browser. (OSX only, Proprietary app)
 
 #### Analysis
 
