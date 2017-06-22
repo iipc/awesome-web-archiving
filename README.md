@@ -115,13 +115,13 @@ To the extent possible under law, the owner has waived all copyright and related
 
 * [warcio](https://github.com/webrecorder/warcio) - Streaming WARC/ARC library for fast web archive IO. (Python)
 
-* [warctools](https://github.com/internetarchive/warctools) - library to work with ARC and WARC files. (Python)
+* [warctools](https://github.com/internetarchive/warctools) - Library to work with ARC and WARC files. (Python)
 
 * [wasapi-downloader](https://github.com/sul-dlss/wasapi-downloader) (Stable) - Java command line application to download crawls from WASAPI.
 
 * [WarcPartitioner](https://github.com/helgeho/WarcPartitioner) (Stable) - Partition (W)ARC Files by MIME Type and Year
 
-* [webarchive](https://github.com/richardlehane/webarchive) - golang readers for ARC and WARC webarchive formats
+* [webarchive](https://github.com/richardlehane/webarchive) - Golang readers for ARC and WARC webarchive formats
 
 * [webarchive-indexing](https://github.com/ikreymer/webarchive-indexing) - Tools for bulk indexing of WARC/ARC files on Hadoop, EMR or local file system.
 
