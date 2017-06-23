@@ -57,7 +57,7 @@ To the extent possible under law, the owner has waived all copyright and related
 
 * [Heritrix](https://webarchive.jira.com/wiki/display/Heritrix/Heritrix) (Stable) - An open source, extensible, web-scale, archival quality web crawler.
 
-* [html2warc](https://github.com/steffenfritz/html2warc) (Stable) - A simple script to covert offline data into a single warc file
+* [html2warc](https://github.com/steffenfritz/html2warc) (Stable) - A simple script to covert offline data into a single WARC file.
 
 * [HTTrack](http://www.httrack.com/) (Stable) - An open source website copying utility.
 
@@ -95,17 +95,17 @@ To the extent possible under law, the owner has waived all copyright and related
 
 * [warc-discovery](https://github.com/ukwa/webarchive-discovery) (Stable) - WARC and ARC indexing and discovery tools.
 
-* [WARClight](https://github.com/web-archive-group/warclight) (In Development) - Blacklight instance operating on WARCs indexed using [warc-discovery](https://github.com/ukwa/webarchive-discovery)
+* [WARClight](https://github.com/web-archive-group/warclight) (In Development) - Blacklight instance operating on WARCs indexed using [warc-discovery](https://github.com/ukwa/webarchive-discovery).
 
 #### Utilities
 
-* [HadoopConcatGz](https://github.com/helgeho/HadoopConcatGz) (Stable) - A Splitable Hadoop InputFormat for Concatenated GZIP Files (and *.warc.gz)
+* [HadoopConcatGz](https://github.com/helgeho/HadoopConcatGz) (Stable) - A Splitable Hadoop InputFormat for Concatenated GZIP Files (and *.warc.gz).
 
 * [har2warc](https://github.com/webrecorder/har2warc) - Convert HTTP Archive (HAR) -> Web Archive (WARC) format. (Python)
 
 * [Jwat](https://sbforge.org/display/JWAT/JWAT) (Stable) - Libraries and tools for reading/writting/validating WARC/ARC/GZIP files. (Java)
 
-* [node-warc](https://github.com/N0taN3rd/node-warc) - Parse Web ARChive (WARC) files with node.js
+* [node-warc](https://github.com/N0taN3rd/node-warc) - Parse Web ARChive (WARC) files with node.js.
 
 * [The Archive Browser](https://archivebrowser.c3.cx/) - The Archive Browser is a program that lets you browse the contents of archives, as well as extract them. It will let you open files from inside archives, and lets you preview them using Quick Look. WARC is supported. (OSX only, Proprietary app)
 
@@ -119,9 +119,9 @@ To the extent possible under law, the owner has waived all copyright and related
 
 * [wasapi-downloader](https://github.com/sul-dlss/wasapi-downloader) (Stable) - Java command line application to download crawls from WASAPI.
 
-* [WarcPartitioner](https://github.com/helgeho/WarcPartitioner) (Stable) - Partition (W)ARC Files by MIME Type and Year
+* [WarcPartitioner](https://github.com/helgeho/WarcPartitioner) (Stable) - Partition (W)ARC Files by MIME Type and Year.
 
-* [webarchive](https://github.com/richardlehane/webarchive) - Golang readers for ARC and WARC webarchive formats
+* [webarchive](https://github.com/richardlehane/webarchive) - Golang readers for ARC and WARC webarchive formats.
 
 * [webarchive-indexing](https://github.com/ikreymer/webarchive-indexing) - Tools for bulk indexing of WARC/ARC files on Hadoop, EMR or local file system.
 
