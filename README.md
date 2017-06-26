@@ -35,15 +35,25 @@ To the extent possible under law, the owner has waived all copyright and related
 
 * Introductions to web archiving concepts:
     * [What is a web archive?](https://youtu.be/ubDHY-ynWi0) video from [the UK Web Archive YouTube Channel](https://www.youtube.com/channel/UCJukhTSw8VRj-VNTpBcqWkw)
+    * [Wikipedia's List of Web Archiving Initiatives](https://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)
     * [Glossary of Archive-It and Web Archiving Terms](https://support.archive-it.org/hc/en-us/articles/208111686-Glossary-of-Archive-It-and-Web-Archiving-Terms)
+    * [The Web Archiveing Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/) -- The Web Archiving Lifecycle Model is an attempt to incorporate the technological and programmatic arms of the web archiving into a framework that will be relevant to any organization seeking to archive content from the web. Archive-It, the web archiving service from the Internet Archive, developed the model based on its work with memory institutions around the world.
+* [Awesome Memento](https://github.com/machawk1/awesome-memento)
 * More advanced material:
     * [Awesome Memento](https://github.com/machawk1/awesome-memento)
     * [docs.warcbase.org](https://lintool.github.io/warcbase-docs/)
     * [Heritrix Walkthrough](https://github.com/web-archive-group/heritrix-walkthrough) (In development)
     * [The WARC Ecosystem](http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem)
+    * [The Web Crawl section of COPTR](http://coptr.digipres.org/Category:Web_Crawl)
     * [warcbase workshop](https://github.com/web-archive-group/warcbase_workshop_vagrant)
 
 ### Tools & Software
+
+This list of tools and software is intended to briefly describe some of the most important and widely-used tools related to web archiving. For more details, we recommend you refer to (and contribute to!) these excellent resources from other groups:
+
+* [Comparison of web archiving software](https://github.com/archivers-space/research/tree/master/web_archiving)
+* [Awesome Website Change Monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring)
+* [Web Crawl @ COPTR](http://coptr.digipres.org/Category:Web_Crawl)
 
 #### Acquisition
 
