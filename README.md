@@ -18,7 +18,7 @@ Please ensure your pull request adheres to the following guidelines:
 * Use the following format: 
    * `[Name](link)` (Status: **Stable** or **In Development**) - Brief Description of what the module does
 * Make an individual pull request for each new item.
-* Link additions should be inserted alphabetically to the relavant category.
+* Link additions should be inserted alphabetically to the relevant category.
 * New categories or improvements to the existing categorization are welcome.
 * Check your spelling and grammar.
 * The pull request and commit should have a useful title.
@@ -37,7 +37,7 @@ To the extent possible under law, the owner has waived all copyright and related
     * [What is a web archive?](https://youtu.be/ubDHY-ynWi0) video from [the UK Web Archive YouTube Channel](https://www.youtube.com/channel/UCJukhTSw8VRj-VNTpBcqWkw)
     * [Wikipedia's List of Web Archiving Initiatives](https://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)
     * [Glossary of Archive-It and Web Archiving Terms](https://support.archive-it.org/hc/en-us/articles/208111686-Glossary-of-Archive-It-and-Web-Archiving-Terms)
-    * [The Web Archiveing Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/) -- The Web Archiving Lifecycle Model is an attempt to incorporate the technological and programmatic arms of the web archiving into a framework that will be relevant to any organization seeking to archive content from the web. Archive-It, the web archiving service from the Internet Archive, developed the model based on its work with memory institutions around the world.
+    * [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/) -- The Web Archiving Lifecycle Model is an attempt to incorporate the technological and programmatic arms of the web archiving into a framework that will be relevant to any organization seeking to archive content from the web. Archive-It, the web archiving service from the Internet Archive, developed the model based on its work with memory institutions around the world.
 * [Awesome Memento](https://github.com/machawk1/awesome-memento)
 * More advanced material:
     * [Awesome Memento](https://github.com/machawk1/awesome-memento)
@@ -57,7 +57,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 #### Acquisition
 
-* [ArchiveFacebook](https://addons.mozilla.org/en-US/firefox/addon/archivefacebook/) (Stable)	- A [Mozilla Firefox](http://www.mozilla.org/en-US/firefox/new/) add-on for individuals to archive their Facebook accounts.
+* [ArchiveFacebook](https://addons.mozilla.org/en-US/firefox/addon/archivefacebook/) (Stable)	- A [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) add-on for individuals to archive their Facebook accounts.
 
 * [Brozzler](https://github.com/internetarchive/brozzler) (Stable) - A distributed web crawler (爬虫) that uses a real browser (chrome or chromium) to fetch pages and embedded urls and to extract links.
 
@@ -67,7 +67,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [Heritrix](https://webarchive.jira.com/wiki/display/Heritrix/Heritrix) (Stable) - An open source, extensible, web-scale, archival quality web crawler.
 
-* [html2warc](https://github.com/steffenfritz/html2warc) (Stable) - A simple script to covert offline data into a single WARC file.
+* [html2warc](https://github.com/steffenfritz/html2warc) (Stable) - A simple script to convert offline data into a single WARC file.
 
 * [HTTrack](http://www.httrack.com/) (Stable) - An open source website copying utility.
 
@@ -113,9 +113,9 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [har2warc](https://github.com/webrecorder/har2warc) - Convert HTTP Archive (HAR) -> Web Archive (WARC) format. (Python)
 
-* [Jwat](https://sbforge.org/display/JWAT/JWAT) (Stable) - Libraries and tools for reading/writting/validating WARC/ARC/GZIP files. (Java)
+* [Jwat](https://sbforge.org/display/JWAT/JWAT) (Stable) - Libraries and tools for reading/writing/validating WARC/ARC/GZIP files. (Java)
 
-* [node-warc](https://github.com/N0taN3rd/node-warc) - Parse Web ARChive (WARC) files with node.js.
+* [node-warc](https://github.com/N0taN3rd/node-warc) - Parse Web ARChive (WARC) files with `node.js`.
 
 * [The Archive Browser](https://archivebrowser.c3.cx/) - The Archive Browser is a program that lets you browse the contents of archives, as well as extract them. It will let you open files from inside archives, and lets you preview them using Quick Look. WARC is supported. (OSX only, Proprietary app)
 
@@ -139,7 +139,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [ArchiveSpark](https://github.com/helgeho/ArchiveSpark) (Stable) - An Apache Spark framework (not only) for Web Archives that enables easy data processing, extraction as well as derivation.
 
-* [warcbase](http://warcbase.org/) (Stable) - Warcbase is an open-source platform for managing analyzing web archives.
+* [warcbase](http://warcbase.org/) (Stable) - Warcbase is an open-source platform for manage & analyze web archives.
 
 ### Community Resources
 
