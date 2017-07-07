@@ -97,7 +97,9 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [OpenWayback](https://github.com/iipc/openwayback/) (Stable) - The open source project aimed to develop Wayback Machine, the key software used by web archives worldwide to play back archived websites in the user's browser.
 
-* [Webrecorder Player](https://github.com/webrecorder/webrecorderplayer-electron) Webrecorder Player for Desktop OSX/Windows/Linux. (Built with Electron + Webrecorder)
+* [Webrecorder Player](https://github.com/webrecorder/webrecorderplayer-electron) - Webrecorder Player for Desktop OSX/Windows/Linux. (Built with Electron + Webrecorder)
+
+* [InterPlanetary Wayback (ipwb)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
 
 #### Search & Discovery
 
