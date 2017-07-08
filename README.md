@@ -139,7 +139,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [ArchiveSpark](https://github.com/helgeho/ArchiveSpark) (Stable) - An Apache Spark framework (not only) for Web Archives that enables easy data processing, extraction as well as derivation.
 
-* [warcbase](http://warcbase.org/) (Stable) - Warcbase is an open-source platform for manage & analyze web archives.
+* [warcbase](http://warcbase.org/) (Stable) - Warcbase is an open-source platform for managing & analyzing web archives.
 
 ### Community Resources
 
