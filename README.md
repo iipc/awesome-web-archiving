@@ -111,6 +111,8 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [Tempas v1](http://tempas.L3S.de/v1) (Stable) - Temporal web archive search based on [Delicious](https://en.wikipedia.org/wiki/Delicious_(website)) tags.
 
+* [Tempas v2](http://tempas.L3S.de/v2) (Stable) - Temporal web archive search based on links and anchor texts extracted from the German web from 1996 to 2013 (results are not limited to German pages, e.g., [Obama@2005-2009 in Tempas](http://tempas.l3s.de/v2/query?q=obama&from=2005&to=2009)).
+
 * [warc-discovery](https://github.com/ukwa/webarchive-discovery) (Stable) - WARC and ARC indexing and discovery tools.
 
 * [WARClight](https://github.com/web-archive-group/warclight) (In Development) - Blacklight instance operating on WARCs indexed using [warc-discovery](https://github.com/ukwa/webarchive-discovery).
