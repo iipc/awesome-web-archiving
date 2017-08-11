@@ -170,7 +170,7 @@ This list of tools and software is intended to briefly describe some of the most
 #### Slack
 
 * Ask [@netpreserve](https://twitter.com/NetPreserve) for access to the [IIPC Slack](https://iipc.slack.com/)
-* Ask [@ianmilligan1](https://twitter.com/ianmilligan1) for access to the [Archives Unleashed Slack](https://archivesunleashed.slack.com/), a researcher group of people working with web archives.
+* [Fill out this request form](https://docs.google.com/forms/d/e/1FAIpQLScXPIH0Ssw63yWqyMkUqHVYmz2-ItBMzHiJQ-sOlJwTA8u5AQ/viewform?usp=sf_link) for access to the [Archives Unleashed Slack](https://archivesunleashed.slack.com/), a researcher group of people working with web archives.
 
 #### Twitter
 
