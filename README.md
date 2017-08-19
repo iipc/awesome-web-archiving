@@ -115,7 +115,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [warc-discovery](https://github.com/ukwa/webarchive-discovery) (Stable) - WARC and ARC indexing and discovery tools.
 
-* [WARClight](https://github.com/web-archive-group/warclight) (In Development) - Blacklight instance operating on WARCs indexed using [warc-discovery](https://github.com/ukwa/webarchive-discovery).
+* [Warclight](https://github.com/archivesunleashed/warclight) (In Development) - A Project Blacklight based Rails engine that supports the discovery of web archives held in the WARC and ARC formats. Designed to work with [warc-discovery](https://github.com/ukwa/webarchive-discovery).
 
 #### Utilities
 
