@@ -123,6 +123,8 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [har2warc](https://github.com/webrecorder/har2warc) - Convert HTTP Archive (HAR) -> Web Archive (WARC) format. (Python)
 
+* [httpreserve.info](httpreserve.info) (Stable) - Service to return the status of a web page or save it to the Internet Archive. Returns JSON via browser or command line via CURL using GET. (Golang Package)
+
 * [Jwat](https://sbforge.org/display/JWAT/JWAT) (Stable) - Libraries and tools for reading/writing/validating WARC/ARC/GZIP files. (Java)
 
 * [node-cdxj](https://github.com/N0taN3rd/node-cdxj) (Stable) - [CDXJ](https://github.com/oduwsdl/ORS/wiki/CDXJ) file parser. (Node.js)
