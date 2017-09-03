@@ -125,6 +125,8 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [httpreserve.info](httpreserve.info) (Stable) - Service to return the status of a web page or save it to the Internet Archive. Returns JSON via browser or command line via CURL using GET. (Golang Package)
 
+* [HTTPreserve Workbench](https://github.com/httpreserve/workbench) (In Development) - Tool and API to describe the status of a web page encoded in a simple JSON output describing current status, and earliest and latest links on wayback.org. Save a web page to the Internet Archive. Audit lists of URIs and output a CSV with the data described above. (Golang)
+
 * [Jwat](https://sbforge.org/display/JWAT/JWAT) (Stable) - Libraries and tools for reading/writing/validating WARC/ARC/GZIP files. (Java)
 
 * [node-cdxj](https://github.com/N0taN3rd/node-cdxj) (Stable) - [CDXJ](https://github.com/oduwsdl/ORS/wiki/CDXJ) file parser. (Node.js)
