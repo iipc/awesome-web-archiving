@@ -123,7 +123,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [har2warc](https://github.com/webrecorder/har2warc) - Convert HTTP Archive (HAR) -> Web Archive (WARC) format. (Python)
 
-* [HTTPreserve Workbench](https://github.com/httpreserve/workbench) (In Development) - Tool and API to describe the status of a web page encoded in a simple JSON output describing current status, and earliest and latest links on wayback.org. Save a web page to the Internet Archive. Audit lists of URIs and output a CSV with the data described above.
+* [HTTPreserve Workbench](https://github.com/httpreserve/workbench) (In Development) - Tool and API to describe the status of a web page encoded in a simple JSON output describing current status, and earliest and latest links on wayback.org. Save a web page to the Internet Archive. Audit lists of URIs and output a CSV with the data described above. (Golang)
 
 * [Jwat](https://sbforge.org/display/JWAT/JWAT) (Stable) - Libraries and tools for reading/writing/validating WARC/ARC/GZIP files. (Java)
 
