@@ -133,6 +133,8 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Program to extract the contents of many archive formats, inclusive of WARC, to a file system. Free variant of The Archive Browser. (OSX only, Proprietary app)
 
+* [tikalinkextract](https://github.com/httpreserve/tikalinkextract) (In Development) - Extract hyperlinks as a seed for web archiving from folders of document types that can be parsed by Apache Tika. (Golang, Apache Tika Server)
+
 * [Warcat](https://github.com/chfoo/warcat) (Stable) - Tool and library for handling Web ARChive (WARC) files. (Python)
 
 * [warcio](https://github.com/webrecorder/warcio) - Streaming WARC/ARC library for fast web archive IO. (Python)
