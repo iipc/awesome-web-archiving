@@ -40,6 +40,8 @@ To the extent possible under law, the owner has waived all copyright and related
     * [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/) -- The Web Archiving Lifecycle Model is an attempt to incorporate the technological and programmatic arms of the web archiving into a framework that will be relevant to any organization seeking to archive content from the web. Archive-It, the web archiving service from the Internet Archive, developed the model based on its work with memory institutions around the world.
 * [Awesome Memento](https://github.com/machawk1/awesome-memento)
 * More advanced material:
+    * [Awesome Memento](https://github.com/machawk1/awesome-memento)
+    * [docs.archivesunleashed.io](http://docs.archivesunleashed.io/)
     * [docs.warcbase.org](https://lintool.github.io/warcbase-docs/)
     * [Heritrix Walkthrough](https://github.com/web-archive-group/heritrix-walkthrough) (In development)
     * [The WARC Ecosystem](http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem)
@@ -114,7 +116,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [warc-discovery](https://github.com/ukwa/webarchive-discovery) (Stable) - WARC and ARC indexing and discovery tools.
 
-* [WARClight](https://github.com/web-archive-group/warclight) (In Development) - Blacklight instance operating on WARCs indexed using [warc-discovery](https://github.com/ukwa/webarchive-discovery).
+* [Warclight](https://github.com/archivesunleashed/warclight) (In Development) - A Project Blacklight based Rails engine that supports the discovery of web archives held in the WARC and ARC formats. Designed to work with [warc-discovery](https://github.com/ukwa/webarchive-discovery).
 
 #### Utilities
 
@@ -156,7 +158,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [ArchiveSpark](https://github.com/helgeho/ArchiveSpark) (Stable) - An Apache Spark framework (not only) for Web Archives that enables easy data processing, extraction as well as derivation.
 
-* [warcbase](http://warcbase.org/) (Stable) - Warcbase is an open-source platform for managing & analyzing web archives.
+* [aut](https://github.com/archivesunleashed/aut) (Stable) - Archives Unleashed Toolkit is an open-source platform for managing & analyzing web archives.
 
 ### Community Resources
 
