@@ -15,10 +15,10 @@ An [Awesome List](https://github.com/sindresorhus/awesome/blob/master/awesome.md
 
 Please ensure your pull request adheres to the following guidelines:
 
-* Use the following format: 
+* Use the following format:
    * `[Name](link)` (Status: **Stable** or **In Development**) - Brief Description of what the module does
 * Make an individual pull request for each new item.
-* Link additions should be inserted alphabetically to the relavant category.
+* Link additions should be inserted alphabetically to the relevant category.
 * New categories or improvements to the existing categorization are welcome.
 * Check your spelling and grammar.
 * The pull request and commit should have a useful title.
@@ -37,10 +37,9 @@ To the extent possible under law, the owner has waived all copyright and related
     * [What is a web archive?](https://youtu.be/ubDHY-ynWi0) video from [the UK Web Archive YouTube Channel](https://www.youtube.com/channel/UCJukhTSw8VRj-VNTpBcqWkw)
     * [Wikipedia's List of Web Archiving Initiatives](https://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)
     * [Glossary of Archive-It and Web Archiving Terms](https://support.archive-it.org/hc/en-us/articles/208111686-Glossary-of-Archive-It-and-Web-Archiving-Terms)
-    * [The Web Archiveing Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/) -- The Web Archiving Lifecycle Model is an attempt to incorporate the technological and programmatic arms of the web archiving into a framework that will be relevant to any organization seeking to archive content from the web. Archive-It, the web archiving service from the Internet Archive, developed the model based on its work with memory institutions around the world.
+    * [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/) -- The Web Archiving Lifecycle Model is an attempt to incorporate the technological and programmatic arms of the web archiving into a framework that will be relevant to any organization seeking to archive content from the web. Archive-It, the web archiving service from the Internet Archive, developed the model based on its work with memory institutions around the world.
 * [Awesome Memento](https://github.com/machawk1/awesome-memento)
 * More advanced material:
-    * [Awesome Memento](https://github.com/machawk1/awesome-memento)
     * [docs.warcbase.org](https://lintool.github.io/warcbase-docs/)
     * [Heritrix Walkthrough](https://github.com/web-archive-group/heritrix-walkthrough) (In development)
     * [The WARC Ecosystem](http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem)
@@ -57,23 +56,27 @@ This list of tools and software is intended to briefly describe some of the most
 
 #### Acquisition
 
-* [ArchiveFacebook](https://addons.mozilla.org/en-US/firefox/addon/archivefacebook/) (Stable)	- A [Mozilla Firefox](http://www.mozilla.org/en-US/firefox/new/) add-on for individuals to archive their Facebook accounts.
+* [ArchiveFacebook](https://addons.mozilla.org/en-US/firefox/addon/archivefacebook/) (Stable)	- A [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) add-on for individuals to archive their Facebook accounts.
+
+* [archivenow](https://github.com/oduwsdl/archivenow) (Stable)	- A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives.
 
 * [Brozzler](https://github.com/internetarchive/brozzler) (Stable) - A distributed web crawler (爬虫) that uses a real browser (chrome or chromium) to fetch pages and embedded urls and to extract links.
 
 * [F(b)arc](https://github.com/justinlittman/fbarc) (Stable) - A commandline tool and Python library for archiving data from [Facebook](https://www.facebook.com/) using the [Graph API](https://developers.facebook.com/docs/graph-api).
- 
+
 * [grab-site](https://github.com/ludios/grab-site) (Stable) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns.
 
 * [Heritrix](https://webarchive.jira.com/wiki/display/Heritrix/Heritrix) (Stable) - An open source, extensible, web-scale, archival quality web crawler.
 
-* [html2warc](https://github.com/steffenfritz/html2warc) (Stable) - A simple script to covert offline data into a single WARC file.
+* [html2warc](https://github.com/steffenfritz/html2warc) (Stable) - A simple script to convert offline data into a single WARC file.
 
 * [HTTrack](http://www.httrack.com/) (Stable) - An open source website copying utility.
 
 * [Lentil](https://github.com/NCSU-Libraries/lentil) (Stable) - A Ruby on Rails Engine that supports the harvesting of images from Instagram and provides several browsing views, mechanisms for sharing, tools for users to select their favorite images, an administrative interface for moderating images, and a system for harvesting images and submitting donor agreements in preparation of ingest into external repositories.
 
 * [SiteStory](http://mementoweb.github.com/SiteStory/) (Stable) - A transactional archive that selectively captures and stores transactions that take place between a web client (browser) and a web server.
+
+* [Squidwarc](https://github.com/N0taN3rd/Squidwarc) (In Development) - An [open source, high-fidelity, page interacting](http://ws-dl.blogspot.com/2017/07/2017-07-24-replacing-heritrix-with.html) archival crawler that uses Chrome or Chrome Headless directly.
 
 * [twarc](https://github.com/docnow/twarc) (Stable) - A command line tool and Python library for archiving Twitter JSON data.
 
@@ -97,11 +100,17 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [OpenWayback](https://github.com/iipc/openwayback/) (Stable) - The open source project aimed to develop Wayback Machine, the key software used by web archives worldwide to play back archived websites in the user's browser.
 
-* [Webrecorder Player](https://github.com/webrecorder/webrecorderplayer-electron) Webrecorder Player for Desktop OSX/Windows/Linux. (Built with Electron + Webrecorder)
+* [Webrecorder Player](https://github.com/webrecorder/webrecorderplayer-electron) - Webrecorder Player for Desktop OSX/Windows/Linux. (Built with Electron + Webrecorder)
+
+* [InterPlanetary Wayback (ipwb)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
 
 #### Search & Discovery
 
 * [Shine](https://github.com/ukwa/shine) (Stable) - A prototype web archives exploration UI, based on a Solr back-end that has been populated using the [warc-discovery]() indexer.
+
+* [Tempas v1](http://tempas.L3S.de/v1) (Stable) - Temporal web archive search based on [Delicious](https://en.wikipedia.org/wiki/Delicious_(website)) tags.
+
+* [Tempas v2](http://tempas.L3S.de/v2) (Stable) - Temporal web archive search based on links and anchor texts extracted from the German web from 1996 to 2013 (results are not limited to German pages, e.g., [Obama@2005-2009 in Tempas](http://tempas.l3s.de/v2/query?q=obama&from=2005&to=2009)).
 
 * [warc-discovery](https://github.com/ukwa/webarchive-discovery) (Stable) - WARC and ARC indexing and discovery tools.
 
@@ -113,13 +122,21 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [har2warc](https://github.com/webrecorder/har2warc) - Convert HTTP Archive (HAR) -> Web Archive (WARC) format. (Python)
 
-* [Jwat](https://sbforge.org/display/JWAT/JWAT) (Stable) - Libraries and tools for reading/writting/validating WARC/ARC/GZIP files. (Java)
+* [httpreserve.info](httpreserve.info) (Stable) - Service to return the status of a web page or save it to the Internet Archive. Returns JSON via browser or command line via CURL using GET. (Golang Package)
 
-* [node-warc](https://github.com/N0taN3rd/node-warc) - Parse Web ARChive (WARC) files with node.js.
+* [HTTPreserve Workbench](https://github.com/httpreserve/workbench) (In Development) - Tool and API to describe the status of a web page encoded in a simple JSON output describing current status, and earliest and latest links on wayback.org. Save a web page to the Internet Archive. Audit lists of URIs and output a CSV with the data described above. (Golang)
+
+* [Jwat](https://sbforge.org/display/JWAT/JWAT) (Stable) - Libraries and tools for reading/writing/validating WARC/ARC/GZIP files. (Java)
+
+* [node-cdxj](https://github.com/N0taN3rd/node-cdxj) (Stable) - [CDXJ](https://github.com/oduwsdl/ORS/wiki/CDXJ) file parser. (Node.js)
+
+* [node-warc](https://github.com/N0taN3rd/node-warc) (Stable) - Parse WARC files or create WARC files using either [Electron](https://electron.atom.io/) or [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface). (Node.js)
 
 * [The Archive Browser](https://archivebrowser.c3.cx/) - The Archive Browser is a program that lets you browse the contents of archives, as well as extract them. It will let you open files from inside archives, and lets you preview them using Quick Look. WARC is supported. (OSX only, Proprietary app)
 
 * [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Program to extract the contents of many archive formats, inclusive of WARC, to a file system. Free variant of The Archive Browser. (OSX only, Proprietary app)
+
+* [tikalinkextract](https://github.com/httpreserve/tikalinkextract) (In Development) - Extract hyperlinks as a seed for web archiving from folders of document types that can be parsed by Apache Tika. (Golang, Apache Tika Server)
 
 * [Warcat](https://github.com/chfoo/warcat) (Stable) - Tool and library for handling Web ARChive (WARC) files. (Python)
 
@@ -139,7 +156,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [ArchiveSpark](https://github.com/helgeho/ArchiveSpark) (Stable) - An Apache Spark framework (not only) for Web Archives that enables easy data processing, extraction as well as derivation.
 
-* [warcbase](http://warcbase.org/) (Stable) - Warcbase is an open-source platform for managing analyzing web archives.
+* [warcbase](http://warcbase.org/) (Stable) - Warcbase is an open-source platform for managing & analyzing web archives.
 
 ### Community Resources
 
@@ -158,7 +175,8 @@ This list of tools and software is intended to briefly describe some of the most
 #### Slack
 
 * Ask [@netpreserve](https://twitter.com/NetPreserve) for access to the [IIPC Slack](https://iipc.slack.com/)
-* Ask [@ianmilligan1](https://twitter.com/ianmilligan1) for access to the [Archives Unleashed Slack](https://archivesunleashed.slack.com/), a researcher group of people working with web archives.
+* [Fill out this request form](https://docs.google.com/forms/d/e/1FAIpQLScXPIH0Ssw63yWqyMkUqHVYmz2-ItBMzHiJQ-sOlJwTA8u5AQ/viewform?usp=sf_link) for access to the [Archives Unleashed Slack](https://archivesunleashed.slack.com/), a researcher group of people working with web archives.
+* [Invite yourself](https://archivers-slack.herokuapp.com/) to the [Archivers Slack](https://archivers.slack.com), a multi-disciplinary effort for archiving projects run in affiliation with [EDGI](https://envirodatagov.org/archiving/) and [Data Together](http://datatogether.org/).
 
 #### Twitter
 
