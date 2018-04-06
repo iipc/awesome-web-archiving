@@ -41,8 +41,7 @@ To the extent possible under law, the owner has waived all copyright and related
 * [Awesome Memento](https://github.com/machawk1/awesome-memento)
 * More advanced material:
     * [Awesome Memento](https://github.com/machawk1/awesome-memento)
-    * [docs.archivesunleashed.io](http://docs.archivesunleashed.io/)
-    * [docs.warcbase.org](https://lintool.github.io/warcbase-docs/)
+    * [Archives Unleashed Toolkit documentation](http://archivesunleashed.org/aut/)
     * [Heritrix Walkthrough](https://github.com/web-archive-group/heritrix-walkthrough) (In development)
     * [The WARC Ecosystem](http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem)
     * [The Web Crawl section of COPTR](http://coptr.digipres.org/Category:Web_Crawl)
@@ -158,7 +157,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [ArchiveSpark](https://github.com/helgeho/ArchiveSpark) (Stable) - An Apache Spark framework (not only) for Web Archives that enables easy data processing, extraction as well as derivation.
 
-* [aut](https://github.com/archivesunleashed/aut) (Stable) - Archives Unleashed Toolkit is an open-source platform for managing & analyzing web archives.
+* [Archives Unleashed Toolkit](https://github.com/archivesunleashed/aut) (Stable) - Archives Unleashed Toolkit (AUT) is an open-source platform for managing & analyzing web archives.
 
 ### Community Resources
 
