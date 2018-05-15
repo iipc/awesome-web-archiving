@@ -119,6 +119,8 @@ This list of tools and software is intended to briefly describe some of the most
 
 #### Utilities
 
+* [ArchiveTools](https://github.com/recrm/ArchiveTools) - Collection of tools to extract and interact with WARC files. (Python)
+
 * [HadoopConcatGz](https://github.com/helgeho/HadoopConcatGz) (Stable) - A Splitable Hadoop InputFormat for Concatenated GZIP Files (and *.warc.gz).
 
 * [har2warc](https://github.com/webrecorder/har2warc) - Convert HTTP Archive (HAR) -> Web Archive (WARC) format. (Python)
