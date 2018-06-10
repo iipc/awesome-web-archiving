@@ -59,6 +59,8 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [archivenow](https://github.com/oduwsdl/archivenow) (Stable)	- A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives.
 
+* [Bookmark Archiver](https://github.com/pirate/bookmark-archiver) (In Development) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, chrome headless, and other methods.
+
 * [Brozzler](https://github.com/internetarchive/brozzler) (Stable) - A distributed web crawler (爬虫) that uses a real browser (chrome or chromium) to fetch pages and embedded urls and to extract links.
 
 * [F(b)arc](https://github.com/justinlittman/fbarc) (Stable) - A commandline tool and Python library for archiving data from [Facebook](https://www.facebook.com/) using the [Graph API](https://developers.facebook.com/docs/graph-api).
