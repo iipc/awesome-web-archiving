@@ -103,8 +103,6 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [InterPlanetary Wayback (ipwb)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
 
-* [SolrWayback](https://github.com/netarchivesuite/solrwayback) (In Development) - Primarily a discovery application, but with independent playback capabilities of WARCs. Works with a Solr back-end that has been populated using the [warc-discovery]() indexer.
-
 #### Search & Discovery
 
 * [SecurityTrails](https://securitytrails.com/) - Web based archive for WHOIS and DNS records. REST API available free of charge. 
@@ -119,7 +117,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [Warclight](https://github.com/archivesunleashed/warclight) (In Development) - A Project Blacklight based Rails engine that supports the discovery of web archives held in the WARC and ARC formats. Designed to work with [warc-discovery](https://github.com/ukwa/webarchive-discovery).
 
-* [SolrWayback](https://github.com/netarchivesuite/solrwayback) (In Development) - A prototype web archives exploration UI, based on a Solr back-end that has been populated using the [warc-discovery]() indexer (like Shine). Integrated playback functionality.
+* [SolrWayback](https://github.com/netarchivesuite/solrwayback) (In Development) - A prototype web archives exploration UI, based on a Solr back-end that has been populated using the [warc-discovery]() indexer (like Shine). Integrated playback functionality for WARCs.
 
 #### Utilities
 
