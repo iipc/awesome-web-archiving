@@ -67,7 +67,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [grab-site](https://github.com/ludios/grab-site) (Stable) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns.
 
-* [Heritrix](https://webarchive.jira.com/wiki/display/Heritrix/Heritrix) (Stable) - An open source, extensible, web-scale, archival quality web crawler.
+* [Heritrix](https://github.com/internetarchive/heritrix3/wiki) (Stable) - An open source, extensible, web-scale, archival quality web crawler.
 
 * [html2warc](https://github.com/steffenfritz/html2warc) (Stable) - A simple script to convert offline data into a single WARC file.
 
