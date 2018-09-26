@@ -41,8 +41,7 @@ To the extent possible under law, the owner has waived all copyright and related
 * [Awesome Memento](https://github.com/machawk1/awesome-memento)
 * More advanced material:
     * [Awesome Memento](https://github.com/machawk1/awesome-memento)
-    * [docs.archivesunleashed.io](http://docs.archivesunleashed.io/)
-    * [docs.warcbase.org](https://lintool.github.io/warcbase-docs/)
+    * [Archives Unleashed Toolkit documentation](http://archivesunleashed.org/aut/)
     * [Heritrix Walkthrough](https://github.com/web-archive-group/heritrix-walkthrough) (In development)
     * [The WARC Ecosystem](http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem)
     * [The Web Crawl section of COPTR](http://coptr.digipres.org/Category:Web_Crawl)
@@ -58,9 +57,9 @@ This list of tools and software is intended to briefly describe some of the most
 
 #### Acquisition
 
-* [ArchiveFacebook](https://addons.mozilla.org/en-US/firefox/addon/archivefacebook/) (Stable)	- A [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) add-on for individuals to archive their Facebook accounts.
-
 * [archivenow](https://github.com/oduwsdl/archivenow) (Stable)	- A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives.
+
+* [Bookmark Archiver](https://github.com/pirate/bookmark-archiver) (In Development) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, chrome headless, and other methods.
 
 * [Brozzler](https://github.com/internetarchive/brozzler) (Stable) - A distributed web crawler (爬虫) that uses a real browser (chrome or chromium) to fetch pages and embedded urls and to extract links.
 
@@ -68,7 +67,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [grab-site](https://github.com/ludios/grab-site) (Stable) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns.
 
-* [Heritrix](https://webarchive.jira.com/wiki/display/Heritrix/Heritrix) (Stable) - An open source, extensible, web-scale, archival quality web crawler.
+* [Heritrix](https://github.com/internetarchive/heritrix3/wiki) (Stable) - An open source, extensible, web-scale, archival quality web crawler.
 
 * [html2warc](https://github.com/steffenfritz/html2warc) (Stable) - A simple script to convert offline data into a single WARC file.
 
@@ -108,6 +107,8 @@ This list of tools and software is intended to briefly describe some of the most
 
 #### Search & Discovery
 
+* [SecurityTrails](https://securitytrails.com/) - Web based archive for WHOIS and DNS records. REST API available free of charge. 
+
 * [Shine](https://github.com/ukwa/shine) (Stable) - A prototype web archives exploration UI, based on a Solr back-end that has been populated using the [warc-discovery]() indexer.
 
 * [Tempas v1](http://tempas.L3S.de/v1) (Stable) - Temporal web archive search based on [Delicious](https://en.wikipedia.org/wiki/Delicious_(website)) tags.
@@ -119,6 +120,8 @@ This list of tools and software is intended to briefly describe some of the most
 * [Warclight](https://github.com/archivesunleashed/warclight) (In Development) - A Project Blacklight based Rails engine that supports the discovery of web archives held in the WARC and ARC formats. Designed to work with [warc-discovery](https://github.com/ukwa/webarchive-discovery).
 
 #### Utilities
+
+* [ArchiveTools](https://github.com/recrm/ArchiveTools) - Collection of tools to extract and interact with WARC files. (Python)
 
 * [HadoopConcatGz](https://github.com/helgeho/HadoopConcatGz) (Stable) - A Splitable Hadoop InputFormat for Concatenated GZIP Files (and *.warc.gz).
 
@@ -133,6 +136,8 @@ This list of tools and software is intended to briefly describe some of the most
 * [node-cdxj](https://github.com/N0taN3rd/node-cdxj) (Stable) - [CDXJ](https://github.com/oduwsdl/ORS/wiki/CDXJ) file parser. (Node.js)
 
 * [node-warc](https://github.com/N0taN3rd/node-warc) (Stable) - Parse WARC files or create WARC files using either [Electron](https://electron.atom.io/) or [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface). (Node.js)
+
+* [OutbackCDX](https://github.com/nla/outbackcdx) (Stable) - RocksDB-based capture index (CDX) server supporting incremental updates and compression. Can be used as backend for OpenWayback, PyWb and [Heritrix](https://github.com/ukwa/ukwa-heritrix/blob/master/src/main/java/uk/bl/wap/modules/uriuniqfilters/OutbackCDXRecentlySeenUriUniqFilter.java).
 
 * [The Archive Browser](https://archivebrowser.c3.cx/) - The Archive Browser is a program that lets you browse the contents of archives, as well as extract them. It will let you open files from inside archives, and lets you preview them using Quick Look. WARC is supported. (OSX only, Proprietary app)
 
@@ -158,7 +163,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [ArchiveSpark](https://github.com/helgeho/ArchiveSpark) (Stable) - An Apache Spark framework (not only) for Web Archives that enables easy data processing, extraction as well as derivation.
 
-* [aut](https://github.com/archivesunleashed/aut) (Stable) - Archives Unleashed Toolkit is an open-source platform for managing & analyzing web archives.
+* [Archives Unleashed Toolkit](https://github.com/archivesunleashed/aut) (Stable) - Archives Unleashed Toolkit (AUT) is an open-source platform for managing & analyzing web archives.
 
 ### Community Resources
 
@@ -188,6 +193,8 @@ This list of tools and software is intended to briefly describe some of the most
 ----
 
 ### Deprecated
+
+* [ArchiveFacebook](https://addons.mozilla.org/en-US/firefox/addon/archivefacebook/) (Abandoned)	- A [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) add-on for individuals to archive their Facebook accounts.
 
 * [pywb Wayback Web Recorder (Archiver)](https://github.com/ikreymer/pywb-webrecorder) (Sunsetted) - A bare-bones example of how to create a simple web recording and replay system.
 
