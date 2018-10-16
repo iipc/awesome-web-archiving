@@ -117,17 +117,19 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [SecurityTrails](https://securitytrails.com/) - Web based archive for WHOIS and DNS records. REST API available free of charge. 
 
-* [Shine](https://github.com/ukwa/shine) (Stable) - A prototype web archives exploration UI, based on a Solr back-end that has been populated using the [warc-discovery]() indexer.
-
 * [Tempas v1](http://tempas.L3S.de/v1) (Stable) - Temporal web archive search based on [Delicious](https://en.wikipedia.org/wiki/Delicious_(website)) tags.
 
 * [Tempas v2](http://tempas.L3S.de/v2) (Stable) - Temporal web archive search based on links and anchor texts extracted from the German web from 1996 to 2013 (results are not limited to German pages, e.g., [Obama@2005-2009 in Tempas](http://tempas.l3s.de/v2/query?q=obama&from=2005&to=2009)).
 
-* [warc-discovery](https://github.com/ukwa/webarchive-discovery) (Stable) - WARC and ARC indexing and discovery tools.
+* [webarchive-discovery](https://github.com/ukwa/webarchive-discovery) (Stable) - WARC and ARC full-text indexing and discovery tools, with a number of associated tools capable of using the index shown below:
 
-* [Warclight](https://github.com/archivesunleashed/warclight) (In Development) - A Project Blacklight based Rails engine that supports the discovery of web archives held in the WARC and ARC formats. Designed to work with [warc-discovery](https://github.com/ukwa/webarchive-discovery).
+    * [Shine](https://github.com/ukwa/shine) (Stable) - A prototype web archives exploration UI, developed with researchers as part of the [Big UK Domain Data for the Arts and Humanities project](https://buddah.projects.history.ac.uk/).
 
-* [SolrWayback](https://github.com/netarchivesuite/solrwayback) (In Development) - A prototype web archives exploration UI, based on a Solr back-end that has been populated using the [warc-discovery]() indexer (like Shine). Integrated playback functionality for WARCs.
+    * [SolrWayback](https://github.com/netarchivesuite/solrwayback) (In Development) - A prototype web archives exploration UI with integrated playback functionality for WARCs.
+
+    * [Warclight](https://github.com/archivesunleashed/warclight) (In Development) - A Project Blacklight based Rails engine that supports the discovery of web archives held in the WARC and ARC formats. 
+    
+    * Other possible options for builting a front-end are listed on in the `webarchive-discovery` wiki, [here](https://github.com/ukwa/webarchive-discovery/wiki/Front-ends).
 
 #### Utilities
 
