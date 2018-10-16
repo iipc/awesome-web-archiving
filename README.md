@@ -7,6 +7,7 @@ An [Awesome List](https://github.com/sindresorhus/awesome/blob/master/awesome.md
 ## Table of Contents
 
    * [Training/Documentation](#trainingdocumentation)
+   * [Resources for Web Publishers](#resources-for-web-publishers)
    * [Tools & Software](#tools--software)
    * [Community Resources](#community-resources)
    * [Deprecated](#deprecated)
@@ -46,6 +47,13 @@ To the extent possible under law, the owner has waived all copyright and related
     * [The WARC Ecosystem](http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem)
     * [The Web Crawl section of COPTR](http://coptr.digipres.org/Category:Web_Crawl)
     * [warcbase workshop](https://github.com/web-archive-group/warcbase_workshop_vagrant)
+
+### Resources for Web Publishers
+
+These resources can help when working with individuals or organisations who publish on the web, and who want to make sure their site can be archived.
+
+* [Stanford Libraries' Archivability pages](https://library.stanford.edu/projects/web-archiving/archivability)
+* The [Archive Ready](http://archiveready.com/) tool, for estimating how likely a web page will be archived successfully.
 
 ### Tools & Software
 
