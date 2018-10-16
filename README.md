@@ -119,6 +119,8 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [Warclight](https://github.com/archivesunleashed/warclight) (In Development) - A Project Blacklight based Rails engine that supports the discovery of web archives held in the WARC and ARC formats. Designed to work with [warc-discovery](https://github.com/ukwa/webarchive-discovery).
 
+* [SolrWayback](https://github.com/netarchivesuite/solrwayback) (In Development) - A prototype web archives exploration UI, based on a Solr back-end that has been populated using the [warc-discovery]() indexer (like Shine). Integrated playback functionality for WARCs.
+
 #### Utilities
 
 * [ArchiveTools](https://github.com/recrm/ArchiveTools) - Collection of tools to extract and interact with WARC files. (Python)
