@@ -71,6 +71,8 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [Brozzler](https://github.com/internetarchive/brozzler) (Stable) - A distributed web crawler (爬虫) that uses a real browser (chrome or chromium) to fetch pages and embedded urls and to extract links.
 
+* [Crawl](https://git.autistici.org/ale/crawl) (Stable) - A simple web crawler in Golang.
+
 * [crocoite](https://github.com/promyloph/crocoite) (In Development) - Crawl websites using headless Google Chrome/Chromium and save resources, static DOM snapshot and page screenshots to WARC files.
 
 * [F(b)arc](https://github.com/justinlittman/fbarc) (Stable) - A commandline tool and Python library for archiving data from [Facebook](https://www.facebook.com/) using the [Graph API](https://developers.facebook.com/docs/graph-api).
@@ -130,6 +132,8 @@ This list of tools and software is intended to briefly describe some of the most
     * [SolrWayback](https://github.com/netarchivesuite/solrwayback) (In Development) - A prototype web archives exploration UI with integrated playback functionality for WARCs.
 
     * [Warclight](https://github.com/archivesunleashed/warclight) (In Development) - A Project Blacklight based Rails engine that supports the discovery of web archives held in the WARC and ARC formats. 
+    
+    * [Wasp](https://github.com/webis-de/wasp) (In Development) - A fully functional prototype of a personal [web archive and search system](http://desires.dei.unipd.it/papers/paper4.pdf).
     
     * Other possible options for builting a front-end are listed on in the `webarchive-discovery` wiki, [here](https://github.com/ukwa/webarchive-discovery/wiki/Front-ends).
 
