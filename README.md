@@ -95,7 +95,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [WARCreate](http://matkelly.com/warcreate/) (Stable) - A [Google Chrome](https://www.google.com/intl/en/chrome/browser/) extension for archiving an individual webpage or website to a WARC file.
 
-* [Warcworker](https://github.com/peterk/warcworker) (Stable) A dockerized, queued high fidelity web archiver based on Squidwarc.
+* [Warcworker](https://github.com/peterk/warcworker) (Stable) - An open source, dockerized, queued, high fidelity web archiver based on Squidwarc with a simple web GUI.
 
 * [WAIL](https://machawk1.github.io/wail/) (Stable) - A graphical user interface (GUI) atop multiple web archiving tools intended to be used as an easy way for anyone to preserve and replay web pages; [Python](https://machawk1.github.io/wail/), [Electron](https://github.com/n0tan3rd/wail).
 
