@@ -40,6 +40,9 @@ To the extent possible under law, the owner has waived all copyright and related
     * [Glossary of Archive-It and Web Archiving Terms](https://support.archive-it.org/hc/en-us/articles/208111686-Glossary-of-Archive-It-and-Web-Archiving-Terms)
     * [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/) -- The Web Archiving Lifecycle Model is an attempt to incorporate the technological and programmatic arms of the web archiving into a framework that will be relevant to any organization seeking to archive content from the web. Archive-It, the web archiving service from the Internet Archive, developed the model based on its work with memory institutions around the world.
 * [Awesome Memento](https://github.com/machawk1/awesome-memento)
+* The WARC Standard
+    * The [warc-specifications](https://iipc.github.io/warc-specifications/) community HTML version of the official specification and hub for new proposals.
+    * The [offical ISO 28500 WARC specification homepage](http://bibnum.bnf.fr/WARC/).
 * More advanced material:
     * [Awesome Memento](https://github.com/machawk1/awesome-memento)
     * [Archives Unleashed Toolkit documentation](http://archivesunleashed.org/aut/)
