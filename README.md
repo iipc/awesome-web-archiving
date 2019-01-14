@@ -74,6 +74,8 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [Brozzler](https://github.com/internetarchive/brozzler) (Stable) - A distributed web crawler (爬虫) that uses a real browser (chrome or chromium) to fetch pages and embedded urls and to extract links.
 
+* [Chronicler](https://github.com/CGamesPlay/chronicler) (In Development) - Web browser with record and replay functionality.
+
 * [Crawl](https://git.autistici.org/ale/crawl) (Stable) - A simple web crawler in Golang.
 
 * [crocoite](https://github.com/promyloph/crocoite) (In Development) - Crawl websites using headless Google Chrome/Chromium and save resources, static DOM snapshot and page screenshots to WARC files.
