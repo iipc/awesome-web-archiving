@@ -186,6 +186,8 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [webarchive-indexing](https://github.com/ikreymer/webarchive-indexing) - Tools for bulk indexing of WARC/ARC files on Hadoop, EMR or local file system.
 
+* [wikiteam](https://github.com/WikiTeam/wikiteam) (Stable) - Tools for downloading and preserving wikis
+
 #### Analysis
 
 * [ArchiveSpark](https://github.com/helgeho/ArchiveSpark) (Stable) - An Apache Spark framework (not only) for Web Archives that enables easy data processing, extraction as well as derivation.
