@@ -9,6 +9,12 @@ An [Awesome List](https://github.com/sindresorhus/awesome/blob/master/awesome.md
    * [Training/Documentation](#trainingdocumentation)
    * [Resources for Web Publishers](#resources-for-web-publishers)
    * [Tools & Software](#tools--software)
+       * [Acquisition](#acquisition)
+       * [Replay](#replay)
+       * [Search & Discovery](#search--discovery)
+       * [Utilities](#utilities)
+       * [Analysis](#analysis)
+       * [Quality Assurance](#quality-assurance)
    * [Community Resources](#community-resources)
    * [Deprecated](#deprecated)
 
@@ -70,7 +76,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [ArchiveBox](https://github.com/pirate/ArchiveBox) (In Development) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, chrome headless, and other methods. (formerly `Bookmark Archiver`)
 
-* [archivenow](https://github.com/oduwsdl/archivenow) (Stable)	- A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives.
+* [archivenow](https://github.com/oduwsdl/archivenow) (Stable) - A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives.
 
 * [Brozzler](https://github.com/internetarchive/brozzler) (Stable) - A distributed web crawler (爬虫) that uses a real browser (chrome or chromium) to fetch pages and embedded urls and to extract links.
 
@@ -196,6 +202,31 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [Archives Unleashed Toolkit](https://github.com/archivesunleashed/aut) (Stable) - Archives Unleashed Toolkit (AUT) is an open-source platform for analyzing web archives.
 
+#### Quality Assurance
+
+* [Chrome link checker](https://chrome.google.com/webstore/detail/link-checker/aibjbgmpmnidnmagaefhmcjhadpffaoi) browser extension: basic link checker
+
+* [Chrome link gopher](https://chrome.google.com/webstore/detail/bpjdkodgnbfalgghnbeggfbfjpcfamkf/publish-accepted?hl=en-US&gl=US) browser extension: link harvester on a page 
+
+* [Chrome Revolver](https://chrome.google.com/webstore/detail/revolver-tabs/dlknooajieciikpedpldejhhijacnbda) browser extension: switches between browser tabs
+
+* [Chrome Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) browser extension: a link checker with more options
+
+* [Chrome Open Multiple URLs](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=de) browser extension: opens multiple URLs and also extracts URLs from text
+
+* [Xenu](http://home.snafu.de/tilman/xenulink.html) link checker
+
+* [Windows Snipping Tool](https://support.microsoft.com/en-gb/help/13776/windows-use-snipping-tool-to-capture-screenshots) for partial screen capture and annotation. On MacOS you can use Command + Shift + 4 (keyboard shortcut for taking partial screen capture)
+
+* [xDoTool](https://github.com/jordansissel/xdotool) for click automation on Ubuntu
+
+* [FlameShot](https://github.com/lupoDharkael/flameshot) for screen capture and annotation on Ubuntu
+
+* [PlayOnLinux](https://www.playonlinux.com/en/) for running Xenu and Notepad++ on Ubuntu
+
+* [WineBottler](http://winebottler.kronenberg.org/) and [PlayOnMac](https://www.playonmac.com/en/) for running Xenu and Notepad++ on MacOS.
+
+
 ### Community Resources
 
 #### Blogs and Scholarship
@@ -225,7 +256,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 ### Deprecated
 
-* [ArchiveFacebook](https://addons.mozilla.org/en-US/firefox/addon/archivefacebook/) (Abandoned)	- A [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) add-on for individuals to archive their Facebook accounts.
+* [ArchiveFacebook](https://addons.mozilla.org/en-US/firefox/addon/archivefacebook/) (Abandoned) - A [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) add-on for individuals to archive their Facebook accounts.
 
 * [pywb Wayback Web Recorder (Archiver)](https://github.com/ikreymer/pywb-webrecorder) (Sunsetted) - A bare-bones example of how to create a simple web recording and replay system.
 
