@@ -9,6 +9,12 @@ An [Awesome List](https://github.com/sindresorhus/awesome/blob/master/awesome.md
    * [Training/Documentation](#trainingdocumentation)
    * [Resources for Web Publishers](#resources-for-web-publishers)
    * [Tools & Software](#tools--software)
+       * [Acquisition](#acquisition)
+       * [Replay](#replay)
+       * [Search & Discovery](#search--discovery)
+       * [Utilities](#utilities)
+       * [Analysis](#analysis)
+       * [Quality Assurance](#quality-assurance)
    * [Community Resources](#community-resources)
    * [Deprecated](#deprecated)
 
@@ -172,6 +178,31 @@ This list of tools and software is intended to briefly describe some of the most
 * [ArchiveSpark](https://github.com/helgeho/ArchiveSpark) (Stable) - An Apache Spark framework (not only) for Web Archives that enables easy data processing, extraction as well as derivation.
 
 * [Archives Unleashed Toolkit](https://github.com/archivesunleashed/aut) (Stable) - Archives Unleashed Toolkit (AUT) is an open-source platform for managing & analyzing web archives.
+
+#### Quality Assurance
+
+*	[Chrome link checker](https://chrome.google.com/webstore/detail/link-checker/aibjbgmpmnidnmagaefhmcjhadpffaoi) browser extension: basic link checker
+
+* [Chrome link gopher](https://chrome.google.com/webstore/detail/bpjdkodgnbfalgghnbeggfbfjpcfamkf/publish-accepted?hl=en-US&gl=US) browser extension: link harvester on a page 
+
+*	[Chrome Revolver](https://chrome.google.com/webstore/detail/revolver-tabs/dlknooajieciikpedpldejhhijacnbda) browser extension: switches between browser tabs
+
+* [Chrome Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) browser extension: a link checker with more options
+
+* [Chrome Open Multiple URLs](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=de) browser extension: opens multiple URLs and also extracts URLs from text
+
+* [Xenu](http://home.snafu.de/tilman/xenulink.html) link checker
+
+* Windows Snapping Tool (for partial screen capture and annotation). On MacOS you can use Command + Shift + 4 (keyboard shortcut for taking partial screen capture)
+
+* xDoTool (for click automation on Ubuntu)
+
+* FlameShot (for screen capture and annotation on Ububu)
+
+* PlayOnLinux (for running Xenu and Notepad++ on Ubuntu)
+
+*	Wine Bottler and PlayOnMac (for running Xenu and Notepad++ on MacOS.
+
 
 ### Community Resources
 
