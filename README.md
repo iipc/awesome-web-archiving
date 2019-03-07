@@ -71,7 +71,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 #### Acquisition
 
-* [archivenow](https://github.com/oduwsdl/archivenow) (Stable)	- A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives.
+* [archivenow](https://github.com/oduwsdl/archivenow) (Stable) - A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives.
 
 * [Bookmark Archiver](https://github.com/pirate/bookmark-archiver) (In Development) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, chrome headless, and other methods.
 
@@ -181,11 +181,11 @@ This list of tools and software is intended to briefly describe some of the most
 
 #### Quality Assurance
 
-*	[Chrome link checker](https://chrome.google.com/webstore/detail/link-checker/aibjbgmpmnidnmagaefhmcjhadpffaoi) browser extension: basic link checker
+* [Chrome link checker](https://chrome.google.com/webstore/detail/link-checker/aibjbgmpmnidnmagaefhmcjhadpffaoi) browser extension: basic link checker
 
 * [Chrome link gopher](https://chrome.google.com/webstore/detail/bpjdkodgnbfalgghnbeggfbfjpcfamkf/publish-accepted?hl=en-US&gl=US) browser extension: link harvester on a page 
 
-*	[Chrome Revolver](https://chrome.google.com/webstore/detail/revolver-tabs/dlknooajieciikpedpldejhhijacnbda) browser extension: switches between browser tabs
+* [Chrome Revolver](https://chrome.google.com/webstore/detail/revolver-tabs/dlknooajieciikpedpldejhhijacnbda) browser extension: switches between browser tabs
 
 * [Chrome Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) browser extension: a link checker with more options
 
@@ -201,7 +201,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [PlayOnLinux](https://www.playonlinux.com/en/) for running Xenu and Notepad++ on Ubuntu
 
-*	[WineBottler](http://winebottler.kronenberg.org/) and [PlayOnMac](https://www.playonmac.com/en/) for running Xenu and Notepad++ on MacOS.
+* [WineBottler](http://winebottler.kronenberg.org/) and [PlayOnMac](https://www.playonmac.com/en/) for running Xenu and Notepad++ on MacOS.
 
 
 ### Community Resources
@@ -233,7 +233,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 ### Deprecated
 
-* [ArchiveFacebook](https://addons.mozilla.org/en-US/firefox/addon/archivefacebook/) (Abandoned)	- A [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) add-on for individuals to archive their Facebook accounts.
+* [ArchiveFacebook](https://addons.mozilla.org/en-US/firefox/addon/archivefacebook/) (Abandoned) - A [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) add-on for individuals to archive their Facebook accounts.
 
 * [pywb Wayback Web Recorder (Archiver)](https://github.com/ikreymer/pywb-webrecorder) (Sunsetted) - A bare-bones example of how to create a simple web recording and replay system.
 
