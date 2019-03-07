@@ -193,15 +193,15 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [Xenu](http://home.snafu.de/tilman/xenulink.html) link checker
 
-* Windows Snapping Tool (for partial screen capture and annotation). On MacOS you can use Command + Shift + 4 (keyboard shortcut for taking partial screen capture)
+* [Windows Snipping Tool](https://support.microsoft.com/en-gb/help/13776/windows-use-snipping-tool-to-capture-screenshots) for partial screen capture and annotation. On MacOS you can use Command + Shift + 4 (keyboard shortcut for taking partial screen capture)
 
-* xDoTool (for click automation on Ubuntu)
+* [xDoTool](https://github.com/jordansissel/xdotool) for click automation on Ubuntu
 
-* FlameShot (for screen capture and annotation on Ububu)
+* [FlameShot](https://github.com/lupoDharkael/flameshot) for screen capture and annotation on Ubuntu
 
-* PlayOnLinux (for running Xenu and Notepad++ on Ubuntu)
+* [PlayOnLinux](https://www.playonlinux.com/en/) for running Xenu and Notepad++ on Ubuntu
 
-*	Wine Bottler and PlayOnMac (for running Xenu and Notepad++ on MacOS.
+*	[WineBottler](http://winebottler.kronenberg.org/) and [PlayOnMac](https://www.playonmac.com/en/) for running Xenu and Notepad++ on MacOS.
 
 
 ### Community Resources
