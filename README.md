@@ -204,27 +204,29 @@ This list of tools and software is intended to briefly describe some of the most
 
 #### Quality Assurance
 
-* [Chrome link checker](https://chrome.google.com/webstore/detail/link-checker/aibjbgmpmnidnmagaefhmcjhadpffaoi) browser extension: basic link checker
+* [Chrome Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) - Browser extension: a link checker with more options
 
-* [Chrome link gopher](https://chrome.google.com/webstore/detail/bpjdkodgnbfalgghnbeggfbfjpcfamkf/publish-accepted?hl=en-US&gl=US) browser extension: link harvester on a page 
+* [Chrome link checker](https://chrome.google.com/webstore/detail/link-checker/aibjbgmpmnidnmagaefhmcjhadpffaoi) - Browser extension: basic link checker
 
-* [Chrome Revolver](https://chrome.google.com/webstore/detail/revolver-tabs/dlknooajieciikpedpldejhhijacnbda) browser extension: switches between browser tabs
+* [Chrome link gopher](https://chrome.google.com/webstore/detail/bpjdkodgnbfalgghnbeggfbfjpcfamkf/publish-accepted?hl=en-US&gl=US) - Browser extension: link harvester on a page 
 
-* [Chrome Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) browser extension: a link checker with more options
+* [Chrome Open Multiple URLs](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=de) - Browser extension: opens multiple URLs and also extracts URLs from text
 
-* [Chrome Open Multiple URLs](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=de) browser extension: opens multiple URLs and also extracts URLs from text
+* [Chrome Revolver](https://chrome.google.com/webstore/detail/revolver-tabs/dlknooajieciikpedpldejhhijacnbda) - Browser extension: switches between browser tabs
 
-* [Xenu](http://home.snafu.de/tilman/xenulink.html) link checker
+* [FlameShot](https://github.com/lupoDharkael/flameshot) - Screen capture and annotation on Ubuntu
 
-* [Windows Snipping Tool](https://support.microsoft.com/en-gb/help/13776/windows-use-snipping-tool-to-capture-screenshots) for partial screen capture and annotation. On MacOS you can use Command + Shift + 4 (keyboard shortcut for taking partial screen capture)
+* [PlayOnLinux](https://www.playonlinux.com/en/) - For running Xenu and Notepad++ on Ubuntu
 
-* [xDoTool](https://github.com/jordansissel/xdotool) for click automation on Ubuntu
+* [PlayOnMac](https://www.playonmac.com/en/) - For running Xenu and Notepad++ on MacOS.
 
-* [FlameShot](https://github.com/lupoDharkael/flameshot) for screen capture and annotation on Ubuntu
+* [Windows Snipping Tool](https://support.microsoft.com/en-gb/help/13776/windows-use-snipping-tool-to-capture-screenshots) - Windows built-in for partial screen capture and annotation. On MacOS you can use Command + Shift + 4 (keyboard shortcut for taking partial screen capture)
 
-* [PlayOnLinux](https://www.playonlinux.com/en/) for running Xenu and Notepad++ on Ubuntu
+* [WineBottler](http://winebottler.kronenberg.org/) - For running Xenu and Notepad++ on MacOS.
 
-* [WineBottler](http://winebottler.kronenberg.org/) and [PlayOnMac](https://www.playonmac.com/en/) for running Xenu and Notepad++ on MacOS.
+* [xDoTool](https://github.com/jordansissel/xdotool) - Click automation on Ubuntu
+
+* [Xenu](http://home.snafu.de/tilman/xenulink.html) - Desktop link checker for Windows
 
 
 ### Community Resources
