@@ -200,6 +200,8 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [Archives Unleashed Cloud](https://cloud.archivesunleashed.org) (Stable) - Archives Unleashed Cloud (AUK) is an web interface for analysing web archives. Currently, it can sync with Archive-It collections and extract hyperlink networks, full text, and other information from your collections.
 
+* [Archives Unleashed Notebooks](https://github.com/archivesunleashed/auk-notebooks) - Jupyter notebooks to assist in creating additional analysis and visualizations of Archives Unleashed Cloud derivatives.
+
 * [Archives Unleashed Toolkit](https://github.com/archivesunleashed/aut) (Stable) - Archives Unleashed Toolkit (AUT) is an open-source platform for analyzing web archives.
 
 #### Quality Assurance
