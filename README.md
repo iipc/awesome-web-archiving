@@ -46,6 +46,9 @@ To the extent possible under law, the owner has waived all copyright and related
     * [Glossary of Archive-It and Web Archiving Terms](https://support.archive-it.org/hc/en-us/articles/208111686-Glossary-of-Archive-It-and-Web-Archiving-Terms)
     * [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/) -- The Web Archiving Lifecycle Model is an attempt to incorporate the technological and programmatic arms of the web archiving into a framework that will be relevant to any organization seeking to archive content from the web. Archive-It, the web archiving service from the Internet Archive, developed the model based on its work with memory institutions around the world.
 * [Awesome Memento](https://github.com/machawk1/awesome-memento)
+* The WARC Standard
+    * The [warc-specifications](https://iipc.github.io/warc-specifications/) community HTML version of the official specification and hub for new proposals.
+    * The [offical ISO 28500 WARC specification homepage](http://bibnum.bnf.fr/WARC/).
 * More advanced material:
     * [Awesome Memento](https://github.com/machawk1/awesome-memento)
     * [Archives Unleashed Toolkit documentation](http://archivesunleashed.org/aut/)
@@ -71,15 +74,21 @@ This list of tools and software is intended to briefly describe some of the most
 
 #### Acquisition
 
-* [archivenow](https://github.com/oduwsdl/archivenow) (Stable) - A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives.
+* [ArchiveBox](https://github.com/pirate/ArchiveBox) (In Development) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, chrome headless, and other methods. (formerly `Bookmark Archiver`)
 
-* [Bookmark Archiver](https://github.com/pirate/bookmark-archiver) (In Development) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, chrome headless, and other methods.
+* [archivenow](https://github.com/oduwsdl/archivenow) (Stable) - A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives.
 
 * [Brozzler](https://github.com/internetarchive/brozzler) (Stable) - A distributed web crawler (爬虫) that uses a real browser (chrome or chromium) to fetch pages and embedded urls and to extract links.
 
+* [Chronicler](https://github.com/CGamesPlay/chronicler) (In Development) - Web browser with record and replay functionality.
+
+* [Crawl](https://git.autistici.org/ale/crawl) (Stable) - A simple web crawler in Golang.
+
+* [crocoite](https://github.com/promyloph/crocoite) (In Development) - Crawl websites using headless Google Chrome/Chromium and save resources, static DOM snapshot and page screenshots to WARC files.
+
 * [F(b)arc](https://github.com/justinlittman/fbarc) (Stable) - A commandline tool and Python library for archiving data from [Facebook](https://www.facebook.com/) using the [Graph API](https://developers.facebook.com/docs/graph-api).
 
-* [grab-site](https://github.com/ludios/grab-site) (Stable) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns.
+* [grab-site](https://github.com/ArchiveTeam/grab-site) (Stable) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns.
 
 * [Heritrix](https://github.com/internetarchive/heritrix3/wiki) (Stable) - An open source, extensible, web-scale, archival quality web crawler.
 
@@ -91,11 +100,15 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [SiteStory](http://mementoweb.github.com/SiteStory/) (Stable) - A transactional archive that selectively captures and stores transactions that take place between a web client (browser) and a web server.
 
+* [Social Feed Manager](https://gwu-libraries.github.io/sfm-ui/) (Stable) - Open source software that enables users to create social media collections from Twitter, Tumblr, Flickr, and Sina Weibo public APIs. 
+
 * [Squidwarc](https://github.com/N0taN3rd/Squidwarc) (In Development) - An [open source, high-fidelity, page interacting](http://ws-dl.blogspot.com/2017/07/2017-07-24-replacing-heritrix-with.html) archival crawler that uses Chrome or Chrome Headless directly.
 
 * [twarc](https://github.com/docnow/twarc) (Stable) - A command line tool and Python library for archiving Twitter JSON data.
 
 * [WARCreate](http://matkelly.com/warcreate/) (Stable) - A [Google Chrome](https://www.google.com/intl/en/chrome/browser/) extension for archiving an individual webpage or website to a WARC file.
+
+* [Warcworker](https://github.com/peterk/warcworker) (Stable) - An open source, dockerized, queued, high fidelity web archiver based on Squidwarc with a simple web GUI.
 
 * [WAIL](https://machawk1.github.io/wail/) (Stable) - A graphical user interface (GUI) atop multiple web archiving tools intended to be used as an easy way for anyone to preserve and replay web pages; [Python](https://machawk1.github.io/wail/), [Electron](https://github.com/n0tan3rd/wail).
 
@@ -123,15 +136,21 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [SecurityTrails](https://securitytrails.com/) - Web based archive for WHOIS and DNS records. REST API available free of charge. 
 
-* [Shine](https://github.com/ukwa/shine) (Stable) - A prototype web archives exploration UI, based on a Solr back-end that has been populated using the [warc-discovery]() indexer.
-
 * [Tempas v1](http://tempas.L3S.de/v1) (Stable) - Temporal web archive search based on [Delicious](https://en.wikipedia.org/wiki/Delicious_(website)) tags.
 
 * [Tempas v2](http://tempas.L3S.de/v2) (Stable) - Temporal web archive search based on links and anchor texts extracted from the German web from 1996 to 2013 (results are not limited to German pages, e.g., [Obama@2005-2009 in Tempas](http://tempas.l3s.de/v2/query?q=obama&from=2005&to=2009)).
 
-* [warc-discovery](https://github.com/ukwa/webarchive-discovery) (Stable) - WARC and ARC indexing and discovery tools.
+* [webarchive-discovery](https://github.com/ukwa/webarchive-discovery) (Stable) - WARC and ARC full-text indexing and discovery tools, with a number of associated tools capable of using the index shown below:
 
-* [Warclight](https://github.com/archivesunleashed/warclight) (In Development) - A Project Blacklight based Rails engine that supports the discovery of web archives held in the WARC and ARC formats. Designed to work with [warc-discovery](https://github.com/ukwa/webarchive-discovery).
+    * [Shine](https://github.com/ukwa/shine) (Stable) - A prototype web archives exploration UI, developed with researchers as part of the [Big UK Domain Data for the Arts and Humanities project](https://buddah.projects.history.ac.uk/).
+
+    * [SolrWayback](https://github.com/netarchivesuite/solrwayback) (In Development) - A prototype web archives exploration UI with integrated playback functionality for WARCs.
+
+    * [Warclight](https://github.com/archivesunleashed/warclight) (In Development) - A Project Blacklight based Rails engine that supports the discovery of web archives held in the WARC and ARC formats. 
+    
+    * [Wasp](https://github.com/webis-de/wasp) (In Development) - A fully functional prototype of a personal [web archive and search system](http://desires.dei.unipd.it/papers/paper4.pdf).
+    
+    * Other possible options for builting a front-end are listed on in the `webarchive-discovery` wiki, [here](https://github.com/ukwa/webarchive-discovery/wiki/Front-ends).
 
 #### Utilities
 
@@ -173,11 +192,15 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [webarchive-indexing](https://github.com/ikreymer/webarchive-indexing) - Tools for bulk indexing of WARC/ARC files on Hadoop, EMR or local file system.
 
+* [wikiteam](https://github.com/WikiTeam/wikiteam) (Stable) - Tools for downloading and preserving wikis
+
 #### Analysis
 
 * [ArchiveSpark](https://github.com/helgeho/ArchiveSpark) (Stable) - An Apache Spark framework (not only) for Web Archives that enables easy data processing, extraction as well as derivation.
 
-* [Archives Unleashed Toolkit](https://github.com/archivesunleashed/aut) (Stable) - Archives Unleashed Toolkit (AUT) is an open-source platform for managing & analyzing web archives.
+* [Archives Unleashed Cloud](https://cloud.archivesunleashed.org) (Stable) - Archives Unleashed Cloud (AUK) is an web interface for analysing web archives. Currently, it can sync with Archive-It collections and extract hyperlink networks, full text, and other information from your collections.
+
+* [Archives Unleashed Toolkit](https://github.com/archivesunleashed/aut) (Stable) - Archives Unleashed Toolkit (AUT) is an open-source platform for analyzing web archives.
 
 #### Quality Assurance
 
