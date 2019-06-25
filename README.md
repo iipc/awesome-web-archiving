@@ -104,6 +104,8 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [Squidwarc](https://github.com/N0taN3rd/Squidwarc) (In Development) - An [open source, high-fidelity, page interacting](http://ws-dl.blogspot.com/2017/07/2017-07-24-replacing-heritrix-with.html) archival crawler that uses Chrome or Chrome Headless directly.
 
+* [StormCrawler](http://stormcrawler.net/) (Stable) - A collection of resources for building low-latency, scalable web crawlers on Apache Storm.
+
 * [twarc](https://github.com/docnow/twarc) (Stable) - A command line tool and Python library for archiving Twitter JSON data.
 
 * [WARCreate](http://matkelly.com/warcreate/) (Stable) - A [Google Chrome](https://www.google.com/intl/en/chrome/browser/) extension for archiving an individual webpage or website to a WARC file.
