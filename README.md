@@ -254,6 +254,7 @@ This list of tools and software is intended to briefly describe some of the most
 * Ask [@netpreserve](https://twitter.com/NetPreserve) for access to the [IIPC Slack](https://iipc.slack.com/)
 * [Fill out this request form](https://docs.google.com/forms/d/e/1FAIpQLScXPIH0Ssw63yWqyMkUqHVYmz2-ItBMzHiJQ-sOlJwTA8u5AQ/viewform?usp=sf_link) for access to the [Archives Unleashed Slack](https://archivesunleashed.slack.com/), a researcher group of people working with web archives.
 * [Invite yourself](https://archivers-slack.herokuapp.com/) to the [Archivers Slack](https://archivers.slack.com), a multi-disciplinary effort for archiving projects run in affiliation with [EDGI](https://envirodatagov.org/archiving/) and [Data Together](http://datatogether.org/).
+* [Message Bender, Delete and Backup tool for Slack](https://messagebender.com.com/)
 
 #### Twitter
 
