@@ -88,6 +88,8 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [F(b)arc](https://github.com/justinlittman/fbarc) (Stable) - A commandline tool and Python library for archiving data from [Facebook](https://www.facebook.com/) using the [Graph API](https://developers.facebook.com/docs/graph-api).
 
+* [freeze-dry](https://github.com/WebMemex/freeze-dry) (In Development) – JavaScript library to turn page into static, self-contained HTML document; useful for browser extensions.
+
 * [grab-site](https://github.com/ArchiveTeam/grab-site) (Stable) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns.
 
 * [Heritrix](https://github.com/internetarchive/heritrix3/wiki) (Stable) - An open source, extensible, web-scale, archival quality web crawler.
