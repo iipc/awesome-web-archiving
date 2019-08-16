@@ -118,6 +118,8 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [Web2Warc](https://github.com/helgeho/Web2Warc) (Stable) - An easy-to-use and highly customizable crawler that enables anyone to create their own little Web archives (WARC/CDX).
 
+* [WebMemex](https://webmemex.org/) (In Development) - Browser extension for Firefox and Chrome which lets you archive web pages you visit.
+
 * [Webrecorder](https://webrecorder.io/) (Stable) - Create high-fidelity, interactive recordings of any web site you browse.
 
 * [Wget](http://www.gnu.org/software/wget/) (Stable) - An open source file retrieval utility that of [version 1.14 supports writing warcs](http://www.archiveteam.org/index.php?title=Wget_with_WARC_output).
