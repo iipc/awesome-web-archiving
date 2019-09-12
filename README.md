@@ -100,6 +100,8 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [Lentil](https://github.com/NCSU-Libraries/lentil) (Stable) - A Ruby on Rails Engine that supports the harvesting of images from Instagram and provides several browsing views, mechanisms for sharing, tools for users to select their favorite images, an administrative interface for moderating images, and a system for harvesting images and submitting donor agreements in preparation of ingest into external repositories.
 
+* [monolith](https://github.com/Y2Z/monolith) (Stable) - CLI tool to save a web page as a single HTML file.
+
 * [SingleFile](https://github.com/gildas-lormeau/SingleFile) (Stable) - Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file.
 
 * [SiteStory](http://mementoweb.github.com/SiteStory/) (Stable) - A transactional archive that selectively captures and stores transactions that take place between a web client (browser) and a web server.
