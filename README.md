@@ -125,6 +125,7 @@ This list of tools and software is intended to briefly describe some of the most
 ### WARC I/O Libraries
 
 * [HadoopConcatGz](https://github.com/helgeho/HadoopConcatGz) - A Splitable Hadoop InputFormat for Concatenated GZIP Files (and *.warc.gz). (Stable)
+* [jwarc](https://github.com/iipc/jwarc) - Reading and write WARC files with a typesafe API (Java).
 * [Jwat](https://sbforge.org/display/JWAT/JWAT) - Libraries and tools for reading/writing/validating WARC/ARC/GZIP files (Java). (Stable)
 * [node-warc](https://github.com/N0taN3rd/node-warc) - Parse WARC files or create WARC files using either [Electron](https://electron.atom.io/) or [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) (Node.js). (Stable)
 * [Warcat](https://github.com/chfoo/warcat) - Tool and library for handling Web ARChive (WARC) files (Python). (Stable)
