@@ -1,0 +1,18 @@
+name: Awesome Lint
+
+on: [push, pull_request]
+
+jobs:
+  run-lint:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@master
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@master
+        with:
+          node-version: 12.x
+      - name: Install awesome-lint CLI
+        run: npm install -g awesome-lint
+      - name: Run Awesome Lint
+        run: awesome-lint
