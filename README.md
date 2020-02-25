@@ -1,6 +1,6 @@
 # Awesome Web Archiving [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-An Awesome List for getting started with Web archiving.
+Web archiving, an effort to preserve the Web for future generations.
 
 
 ## Contents
