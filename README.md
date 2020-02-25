@@ -12,6 +12,7 @@ Web archiving, an effort to preserve the Web for future generations.
   * [Replay](#replay)
   * [Search & Discovery](#search--discovery)
   * [Utilities](#utilities)
+  * [WARC I/O Libraries](#warc-io-libraries)
   * [Analysis](#analysis)
   * [Quality Assurance](#quality-assurance)
 * [Community Resources](#community-resources)
