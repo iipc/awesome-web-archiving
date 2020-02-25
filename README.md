@@ -15,7 +15,6 @@ Web archiving, an effort to preserve the Web for future generations.
   * [Analysis](#analysis)
   * [Quality Assurance](#quality-assurance)
 * [Community Resources](#community-resources)
-* [Deprecated](#deprecated)
 
 
 ## Training/Documentation
@@ -176,13 +175,3 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [IIPC](https://twitter.com/NetPreserve)
 * [#webarchives](https://twitter.com/search?f=tweets&vertical=default&q=%23webarchives&src=typd)
-
-
----
-
-## Deprecated
-
-<!--lint disable no-dead-urls-->
-* [ArchiveFacebook](https://addons.mozilla.org/en-US/firefox/addon/archivefacebook/) - (Abandoned) - A [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) add-on for individuals to archive their Facebook accounts.
-* [pywb Wayback Web Recorder (Archiver)](https://github.com/ikreymer/pywb-webrecorder) - (Sunsetted) - A bare-bones example of how to create a simple web recording and replay system.
-* [Warrick](https://github.com/oduwsdl/warrick) - (Unmaintained) - An open source tool for reconstructing lost websites from web archives using [Memento](http://mementoweb.org/).
