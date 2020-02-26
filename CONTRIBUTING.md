@@ -10,7 +10,7 @@ Please ensure your pull request adheres to the following guidelines:
 * Check your spelling and grammar.
 * The pull request and commit should have a useful title.
 
-Unsure whether something fits here or not? These answering these questions will help.
+Unsure whether something fits here or not? Answering these questions will help.
 
 * Is the tool used in a formal web archiving programme?
 * Does it archive or capture and preserve other people's data not just backup your own?
