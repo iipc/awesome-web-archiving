@@ -31,7 +31,7 @@ Web archiving, an effort to preserve the Web for future generations.
 * More advanced material:
   * [Awesome Memento](https://github.com/machawk1/awesome-memento)
   * [Archives Unleashed Toolkit documentation](https://github.com/archivesunleashed/aut-docs)
-  * [Heritrix Walkthrough](https://github.com/web-archive-group/heritrix-walkthrough) (In development)
+  * [Heritrix Walkthrough](https://github.com/web-archive-group/heritrix-walkthrough) (In Development)
   * [The WARC Ecosystem](http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem)
   * [The Web Crawl section of COPTR](http://coptr.digipres.org/Category:Web_Crawl)
   * [warcbase workshop](https://github.com/web-archive-group/warcbase_workshop_vagrant)
