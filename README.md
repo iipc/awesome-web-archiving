@@ -181,5 +181,5 @@ This list of tools and software is intended to briefly describe some of the most
 
 ### Twitter
 
-* [@NetPreserve](https://twitter.com/NetPreserve) - Official IIPC Handle.
+* [@NetPreserve](https://twitter.com/NetPreserve) - Official IIPC handle.
 * [#WebArchiving](https://twitter.com/search?q=%23webarchiving)
