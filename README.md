@@ -166,6 +166,7 @@ This list of tools and software is intended to briefly describe some of the most
 * [IIPC Blog](https://netpreserveblog.wordpress.com/)
 * [Web Archiving Roundtable](https://webarchivingrt.wordpress.com/) - Currently dormant, but is a great archive of web archiving resources and links.
 * [The Web as History](http://www.ucl.ac.uk/ucl-press/browse-books/the-web-as-history) - An open-source book that provides a conceptual overview to web archiving research, as well as several case studies.
+* [WS-DL Blog](https://ws-dl.blogspot.com/) - Web Science and Digital Libraries Research Group blogs about various Web archining related topics, scholarly work, and academic trip reports.
 
 ### Mailing Lists
 
