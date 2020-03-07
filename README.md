@@ -15,6 +15,7 @@ Web archiving, an effort to preserve the Web for future generations.
   * [WARC I/O Libraries](#warc-io-libraries)
   * [Analysis](#analysis)
   * [Quality Assurance](#quality-assurance)
+* [Research Datasets](#research-datasets)
 * [Community Resources](#community-resources)
 
 
@@ -157,6 +158,12 @@ This list of tools and software is intended to briefly describe some of the most
 * [WineBottler](http://winebottler.kronenberg.org/) - For running Xenu and Notepad++ on macOS.
 * [xDoTool](https://github.com/jordansissel/xdotool) - Click automation on Ubuntu.
 * [Xenu](http://home.snafu.de/tilman/xenulink.html) - Desktop link checker for Windows.
+
+
+## Research Datasets
+
+* [Common Crawl](https://commoncrawl.org/the-data/) - The Common Crawl corpus contains petabytes of WARC files collected over many years along with their metadata and text extracts.
+* [UK Web Archive Crawled URL Index](https://data.webarchive.org.uk/opendata/ukwa.ds.2/cdx/) - JISC UK Web Domain CDX Dataset (1996-2013).
 
 
 ## Community Resources
