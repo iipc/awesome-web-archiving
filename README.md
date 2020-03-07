@@ -163,7 +163,7 @@ This list of tools and software is intended to briefly describe some of the most
 ## Research Datasets
 
 * [Common Crawl](https://commoncrawl.org/the-data/) - The Common Crawl corpus contains petabytes of WARC files collected over many years along with their metadata and text extracts.
-* [UK Web Archive Crawled URL Index](https://data.webarchive.org.uk/opendata/ukwa.ds.2/cdx/) - JISC UK Web Domain CDX Dataset (1996-2013).
+* [UK Web Archive Open Data](https://data.webarchive.org.uk/opendata/) - It conatins UK Web Domain Dataset (1996-2013) and Website Classification Dataset.
 
 
 ## Community Resources
