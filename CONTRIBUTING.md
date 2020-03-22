@@ -10,6 +10,12 @@ Please ensure your pull request adheres to the following guidelines:
 * Check your spelling and grammar.
 * The pull request and commit should have a useful title.
 
+References to Web archiving datasets for research are welcome with the following guidelines:
+
+* Ensure that the dataset is open access.
+* To keep the size of the list manageable add only the top-level link to the datsset instead of listing individual entries.
+* Briefly describe the contents and primary purpose of the dataset.
+
 Unsure whether something fits here or not? Answering these questions will help.
 
 * Is the tool used in a formal web archiving programme?
