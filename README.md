@@ -1,6 +1,6 @@
 # Awesome Web Archiving [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Web archiving is an effort to preserve the sample of the Web as it exists at the time of observation. Archived web pages can be used to track changes in a website over time, as a backup of useful resources that would otherwise be gone when the original webpage ceases to exist, as a proof in the courts of law, a historical record of the Web of today for future generations, and many other purposes. Preserving the Web and replaying it meaningfully have numerous challenges such as the massive scale, frequency of changes, and ever-evolving technologies to list a few.
+Web archiving is the process of collecting portions of the World Wide Web to ensure the information is preserved in an archive for future researchers, historians, and the public. Web archivists typically employ Web crawlers for automated capture due to the massive scale of the Web. Ever-evolving Web standards require continuous evolution of archiving tools to keep up with the changes in Web technologies to ensure reliable and meaningful capture and replay of archived web pages.
 
 
 ## Contents
