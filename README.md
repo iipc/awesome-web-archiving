@@ -28,12 +28,9 @@ Web archiving is the process of collecting portions of the World Wide Web to ens
 * The WARC Standard:
   * The [warc-specifications](https://iipc.github.io/warc-specifications/) community HTML version of the official specification and hub for new proposals.
   * The [offical ISO 28500 WARC specification homepage](http://bibnum.bnf.fr/WARC/).
-* More advanced material:
-  * [Awesome Memento](https://github.com/machawk1/awesome-memento)
+* For researchers using web archives:
+  * [GLAM Workbench: Web Archives](https://glam-workbench.github.io/web-archives/) and [this related blog post on 'Asking questions with web archives'](https://netpreserveblog.wordpress.com/2020/05/28/asking-questions-with-web-archives/).
   * [Archives Unleashed Toolkit documentation](https://github.com/archivesunleashed/aut-docs)
-  * [Heritrix Walkthrough](https://github.com/web-archive-group/heritrix-walkthrough) *(In Development)*
-  * [The WARC Ecosystem](http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem)
-  * [The Web Crawl section of COPTR](http://coptr.digipres.org/Category:Web_Crawl)
   * [warcbase workshop](https://github.com/web-archive-group/warcbase_workshop_vagrant)
 
 
@@ -64,6 +61,7 @@ This list of tools and software is intended to briefly describe some of the most
 * [freeze-dry](https://github.com/WebMemex/freeze-dry) - JavaScript library to turn page into static, self-contained HTML document; useful for browser extensions. *(In Development)*
 * [grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns. *(Stable)*
 * [Heritrix](https://github.com/internetarchive/heritrix3/wiki) - An open source, extensible, web-scale, archival quality web crawler. *(Stable)*
+    * [Heritrix Walkthrough](https://github.com/web-archive-group/heritrix-walkthrough) *(In Development)*
 * [html2warc](https://github.com/steffenfritz/html2warc) - A simple script to convert offline data into a single WARC file. *(Stable)*
 * [HTTrack](http://www.httrack.com/) - An open source website copying utility. *(Stable)*
 * [Lentil](https://github.com/NCSU-Libraries/lentil) - A Ruby on Rails Engine that supports the harvesting of images from Instagram and provides several browsing views, mechanisms for sharing, tools for users to select their favorite images, an administrative interface for moderating images, and a system for harvesting images and submitting donor agreements in preparation of ingest into external repositories. *(Stable)*
@@ -160,6 +158,13 @@ This list of tools and software is intended to briefly describe some of the most
 
 
 ## Community Resources
+
+### Other Awesome Lists
+
+* [Web Archiving Community](https://github.com/pirate/ArchiveBox/wiki/Web-Archiving-Community)
+* [Awesome Memento](https://github.com/machawk1/awesome-memento)
+* [The WARC Ecosystem](http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem)
+* [The Web Crawl section of COPTR](http://coptr.digipres.org/Category:Web_Crawl)
 
 ### Blogs and Scholarship
 
