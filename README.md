@@ -1,22 +1,26 @@
-# Awesome Web Archiving [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Web Archiving [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
 Web archiving is the process of collecting portions of the World Wide Web to ensure the information is preserved in an archive for future researchers, historians, and the public. Web archivists typically employ Web crawlers for automated capture due to the massive scale of the Web. Ever-evolving Web standards require continuous evolution of archiving tools to keep up with the changes in Web technologies to ensure reliable and meaningful capture and replay of archived web pages.
 
 
-## Contents
+## Contents <!-- omit in toc -->
 
-* [Training/Documentation](#trainingdocumentation)
-* [Resources for Web Publishers](#resources-for-web-publishers)
-* [Tools & Software](#tools--software)
-  * [Acquisition](#acquisition)
-  * [Replay](#replay)
-  * [Search & Discovery](#search--discovery)
-  * [Utilities](#utilities)
-  * [WARC I/O Libraries](#warc-io-libraries)
-  * [Analysis](#analysis)
-  * [Quality Assurance](#quality-assurance)
-* [Community Resources](#community-resources)
-
+- [Training/Documentation](#trainingdocumentation)
+- [Resources for Web Publishers](#resources-for-web-publishers)
+- [Tools & Software](#tools--software)
+  - [Acquisition](#acquisition)
+  - [Replay](#replay)
+  - [Search & Discovery](#search--discovery)
+  - [Utilities](#utilities)
+  - [WARC I/O Libraries](#warc-io-libraries)
+  - [Analysis](#analysis)
+  - [Quality Assurance](#quality-assurance)
+- [Community Resources](#community-resources)
+  - [Other Awesome Lists](#other-awesome-lists)
+  - [Blogs and Scholarship](#blogs-and-scholarship)
+  - [Mailing Lists](#mailing-lists)
+  - [Slack](#slack)
+  - [Twitter](#twitter)
 
 ## Training/Documentation
 
