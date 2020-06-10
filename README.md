@@ -34,9 +34,7 @@ Web archiving is the process of collecting portions of the World Wide Web to ens
   * The [offical ISO 28500 WARC specification homepage](http://bibnum.bnf.fr/WARC/).
 * For researchers using web archives:
   * [GLAM Workbench: Web Archives](https://glam-workbench.github.io/web-archives/) - See also [this related blog post on 'Asking questions with web archives'](https://netpreserveblog.wordpress.com/2020/05/28/asking-questions-with-web-archives/).
-  * [Archives Unleashed Toolkit documentation](https://github.com/archivesunleashed/aut-docs)
-  * [warcbase workshop](https://github.com/web-archive-group/warcbase_workshop_vagrant)
-
+  * [Archives Unleashed Toolkit documentation](https://aut.docs.archivesunleashed.org/)
 
 ## Resources for Web Publishers
 
