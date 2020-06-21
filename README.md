@@ -89,7 +89,6 @@ This list of tools and software is intended to briefly describe some of the most
 * [ReplayWeb.Page](https://replayweb.page/) - A browser-based, fully client-side replay engine for both local and remote WARC files.
 * [PyWb](https://github.com/ikreymer/pywb) - A Python (2 and 3) implementation of web archival replay tools, sometimes also known as 'Wayback Machine'. *(Stable)*
 * [OpenWayback](https://github.com/iipc/openwayback/) - The open source project aimed to develop Wayback Machine, the key software used by web archives worldwide to play back archived websites in the user's browser. *(Stable)*
-* ~~[Webrecorder Player](https://github.com/webrecorder/webrecorderplayer-electron) - Webrecorder Player for Desktop macOS/Windows/Linux (Built with Electron + Webrecorder).~~ Deprecated by [ReplayWeb.Page app](https://github.com/webrecorder/replayweb.page), an Electron based version of [ReplayWeb.Page](https://replayweb.page/).
 * [InterPlanetary Wayback (ipwb)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using [IPFS](https://ipfs.io/).
 * [Reconstructive](https://oduwsdl.github.io/Reconstructive/) - Reconstructive is a ServiceWorker module for client-side reconstruction of composite mementos by rerouting resource requests to corresponding archived copies (JavaScript).
 
