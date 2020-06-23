@@ -66,7 +66,6 @@ This list of tools and software is intended to briefly describe some of the most
   * [Heritrix Walkthrough](https://github.com/web-archive-group/heritrix-walkthrough) *(In Development)*
 * [html2warc](https://github.com/steffenfritz/html2warc) - A simple script to convert offline data into a single WARC file. *(Stable)*
 * [HTTrack](http://www.httrack.com/) - An open source website copying utility. *(Stable)*
-* [Lentil](https://github.com/NCSU-Libraries/lentil) - A Ruby on Rails Engine that supports the harvesting of images from Instagram and provides several browsing views, mechanisms for sharing, tools for users to select their favorite images, an administrative interface for moderating images, and a system for harvesting images and submitting donor agreements in preparation of ingest into external repositories. *(Stable)*
 * [monolith](https://github.com/Y2Z/monolith) - CLI tool to save a web page as a single HTML file. *(Stable)*
 * [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. *(Stable)*
 * [SiteStory](http://mementoweb.github.com/SiteStory/) - A transactional archive that selectively captures and stores transactions that take place between a web client (browser) and a web server. *(Stable)*
