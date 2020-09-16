@@ -29,6 +29,7 @@ Web archiving is the process of collecting portions of the World Wide Web to ens
   * [Wikipedia's List of Web Archiving Initiatives](https://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)
   * [Glossary of Archive-It and Web Archiving Terms](https://support.archive-it.org/hc/en-us/articles/208111686-Glossary-of-Archive-It-and-Web-Archiving-Terms)
   * [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/) - The Web Archiving Lifecycle Model is an attempt to incorporate the technological and programmatic arms of the web archiving into a framework that will be relevant to any organization seeking to archive content from the web. Archive-It, the web archiving service from the Internet Archive, developed the model based on its work with memory institutions around the world.
+  * [Training materials: module for beginners (8 sessions)] (https://netpreserve.org/web-archiving/training-materials/)
 * The WARC Standard:
   * The [warc-specifications](https://iipc.github.io/warc-specifications/) community HTML version of the official specification and hub for new proposals.
   * The [offical ISO 28500 WARC specification homepage](http://bibnum.bnf.fr/WARC/).
@@ -174,6 +175,7 @@ This list of tools and software is intended to briefly describe some of the most
 * [The Web as History](http://www.ucl.ac.uk/ucl-press/browse-books/the-web-as-history) - An open-source book that provides a conceptual overview to web archiving research, as well as several case studies.
 * [WS-DL Blog](https://ws-dl.blogspot.com/) - Web Science and Digital Libraries Research Group blogs about various Web archining related topics, scholarly work, and academic trip reports.
 * [DSHR's Blog](https://blog.dshr.org/) - David Rosenthal regularly reviews and summarizes work done in the Digital Preservation field.
+* [UK Web Archive Blog](https://blogs.bl.uk/webarchive/)
 
 ### Mailing Lists
 
@@ -191,3 +193,4 @@ This list of tools and software is intended to briefly describe some of the most
 
 * [@NetPreserve](https://twitter.com/NetPreserve) - Official IIPC handle.
 * [#WebArchiving](https://twitter.com/search?q=%23webarchiving)
+* [#WebArchiveWednesday](https://twitter.com/hashtag/webarchivewednesday)
