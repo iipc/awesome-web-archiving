@@ -54,6 +54,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 ### Acquisition
 
+* [22120](https://github.com/c9fe/22120) - A non-WARC-based tool which hooks into the chrome browser and archives everything you browse making it available for offline replay. *(In Development)*
 * [ArchiveBox](https://github.com/pirate/ArchiveBox) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, chrome headless, and other methods (formerly `Bookmark Archiver`). *(In Development)*
 * [archivenow](https://github.com/oduwsdl/archivenow) - A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives. *(Stable)*
 * [Brozzler](https://github.com/internetarchive/brozzler) - A distributed web crawler (爬虫) that uses a real browser (chrome or chromium) to fetch pages and embedded urls and to extract links. *(Stable)*
