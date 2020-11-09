@@ -54,7 +54,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 ### Acquisition
 
-* [22120](https://github.com/c9fe/22120) - A tool which hooks into the chrome browser and archives everything you browse making it available for offline replay. *(In Development)*
+* [22120](https://github.com/c9fe/22120) - A non-WARC-based tool which hooks into the chrome browser and archives everything you browse making it available for offline replay. *(In Development)*
 * [ArchiveBox](https://github.com/pirate/ArchiveBox) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, chrome headless, and other methods (formerly `Bookmark Archiver`). *(In Development)*
 * [archivenow](https://github.com/oduwsdl/archivenow) - A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives. *(Stable)*
 * [Brozzler](https://github.com/internetarchive/brozzler) - A distributed web crawler (爬虫) that uses a real browser (chrome or chromium) to fetch pages and embedded urls and to extract links. *(Stable)*
@@ -89,7 +89,6 @@ This list of tools and software is intended to briefly describe some of the most
 
 ### Replay
 
-* [22120](https://github.com/c9fe/22120) - Non-WARC based replays of web resources saved with 22120.
 * [InterPlanetary Wayback (ipwb)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using [IPFS](https://ipfs.io/).
 * [OpenWayback](https://github.com/iipc/openwayback/) - The open source project aimed to develop Wayback Machine, the key software used by web archives worldwide to play back archived websites in the user's browser. *(Stable)*
 * [PyWb](https://github.com/ikreymer/pywb) - A Python (2 and 3) implementation of web archival replay tools, sometimes also known as 'Wayback Machine'. *(Stable)*
