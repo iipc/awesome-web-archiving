@@ -190,4 +190,5 @@ This list of tools and software is intended to briefly describe some of the most
 ### Twitter
 
 * [@NetPreserve](https://twitter.com/NetPreserve) - Official IIPC handle.
+* [@WebSciDL](https://twitter.com/WebSciDL) - ODU Web Science and Digital Libraries Research Group
 * [#WebArchiving](https://twitter.com/search?q=%23webarchiving)
