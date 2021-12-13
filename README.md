@@ -139,6 +139,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 ### WARC I/O Libraries
 
+* [FastWARC](https://github.com/chatnoir-eu/chatnoir-resiliparse) - a high-performance WARC parsing library (Python).
 * [HadoopConcatGz](https://github.com/helgeho/HadoopConcatGz) - A Splitable Hadoop InputFormat for Concatenated GZIP Files (and `*.warc.gz`). *(Stable)*
 * [jwarc](https://github.com/iipc/jwarc) - Reading and write WARC files with a typesafe API (Java).
 * [Jwat](https://sbforge.org/display/JWAT/JWAT) - Libraries and tools for reading/writing/validating WARC/ARC/GZIP files (Java). *(Stable)*
