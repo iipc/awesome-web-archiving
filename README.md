@@ -74,6 +74,7 @@ This list of tools and software is intended to briefly describe some of the most
 * [HTTrack](http://www.httrack.com/) - An open source website copying utility. *(Stable)*
 * [monolith](https://github.com/Y2Z/monolith) - CLI tool to save a web page as a single HTML file. *(Stable)*
 * [Obelisk](https://github.com/go-shiori/obelisk) - Go package and CLI tool for saving web page as single HTML file. *(Stable)*
+* [PageShare.dev](https://www.pageshare.dev) - SaaS browser extension and CLI to take full snapshots of public or local websites and making them public under a generated URL. *(Stable)*
 * [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. *(Stable)*
 * [SiteStory](http://mementoweb.github.com/SiteStory/) - A transactional archive that selectively captures and stores transactions that take place between a web client (browser) and a web server. *(Stable)*
 * [Social Feed Manager](https://gwu-libraries.github.io/sfm-ui/) - Open source software that enables users to create social media collections from Twitter, Tumblr, Flickr, and Sina Weibo public APIs. *(Stable)*
