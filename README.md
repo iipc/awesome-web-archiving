@@ -33,6 +33,8 @@ Web archiving is the process of collecting portions of the World Wide Web to ens
   * [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/) - The Web Archiving Lifecycle Model is an attempt to incorporate the technological and programmatic arms of the web archiving into a framework that will be relevant to any organization seeking to archive content from the web. Archive-It, the web archiving service from the Internet Archive, developed the model based on its work with memory institutions around the world.
   * [Training materials: module for beginners (8 sessions)](https://netpreserve.org/web-archiving/training-materials/)
   * [UNT Web Archiving Course 2022](https://github.com/vphill/web-archiving-course)
+  * [Continuing Education to Advance Web Archiving (CEDWARC)](https://cedwarc.github.io/)
+  * 
 * The WARC Standard:
   * The [warc-specifications](https://iipc.github.io/warc-specifications/) community HTML version of the official specification and hub for new proposals.
   * The [offical ISO 28500 WARC specification homepage](http://bibnum.bnf.fr/WARC/).
