@@ -212,6 +212,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 ### Mailing Lists
 
+* [Common Crawl](https://groups.google.com/g/common-crawl)
 * [IIPC](http://netpreserve.org/about-us/iipc-mailing-list/)
 * [OpenWayback](https://groups.google.com/g/openwayback-dev)
 * [WASAPI](https://groups.google.com/g/wasapi-community)
