@@ -23,6 +23,9 @@ Web archiving is the process of collecting portions of the World Wide Web to ens
   * [Mailing Lists](#mailing-lists)
   * [Slack](#slack)
   * [Twitter](#twitter)
+* [Web Archiving Service Providers](#web-archiving-service-providers)
+  * [Self-hostable, Open Source](#self-hostable-open-source)
+  * [Hosted, Closed Source](#hosted-closed-source)
 
 ## Training/Documentation
 
