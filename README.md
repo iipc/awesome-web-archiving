@@ -248,16 +248,14 @@ The intention is that we only list services that allow web archives to be export
 
 ### Self-hostable, Open Source
 
--	[Browsertrix Cloud](https://browsertrix.cloud/) from [Webrecorder](https://webrecorder.net/), source available at <https://github.com/webrecorder/browsertrix-cloud>.
--	[Conifer](https://conifer.rhizome.org/) from [Rhizome](https://rhizome.org/), source available at <https://github.com/Rhizome-Conifer>.
+*	[Browsertrix Cloud](https://browsertrix.cloud/) - From [Webrecorder](https://webrecorder.net/), source available at <https://github.com/webrecorder/browsertrix-cloud>.
+*	[Conifer](https://conifer.rhizome.org/) - From [Rhizome](https://rhizome.org/), source available at <https://github.com/Rhizome-Conifer>.
 
 ### Hosted, Closed Source
 
-- [Archive-It](https://archive-it.org/) from the [Internet Archive](https://archive.org/).
-- [Arkiwera](https://arkiwera.se/wp/websites/).
--	[Hanzo](https://www.hanzo.co/chronicle)
--	[MirrorWeb](https://www.mirrorweb.com/solutions/capabilities/website-archiving)
--	[PageFreezer](https://www.pagefreezer.com/)
--	[Smarsh](https://www.smarsh.com/platform/compliance-management/web-archive)
-
-
+* [Archive-It](https://archive-it.org/) - From the Internet Archive.
+* [Arkiwera](https://arkiwera.se/wp/websites/)
+*	[Hanzo](https://www.hanzo.co/chronicle)
+*	[MirrorWeb](https://www.mirrorweb.com/solutions/capabilities/website-archiving)
+*	[PageFreezer](https://www.pagefreezer.com/)
+*	[Smarsh](https://www.smarsh.com/platform/compliance-management/web-archive)
