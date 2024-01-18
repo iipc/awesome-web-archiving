@@ -23,6 +23,9 @@ Web archiving is the process of collecting portions of the World Wide Web to ens
   * [Mailing Lists](#mailing-lists)
   * [Slack](#slack)
   * [Twitter](#twitter)
+* [Web Archiving Service Providers](#web-archiving-service-providers)
+  * [Self-hostable, Open Source](#self-hostable-open-source)
+  * [Hosted, Closed Source](#hosted-closed-source)
 
 ## Training/Documentation
 
@@ -238,3 +241,21 @@ This list of tools and software is intended to briefly describe some of the most
 * [@WebSciDL](https://twitter.com/WebSciDL) - ODU Web Science and Digital Libraries Research Group.
 * [#WebArchiving](https://twitter.com/search?q=%23webarchiving)
 * [#WebArchiveWednesday](https://twitter.com/hashtag/webarchivewednesday)
+
+## Web Archiving Service Providers
+
+The intention is that we only list services that allow web archives to be exported in standard formats (WARC or WACZ). But this is not an endorsement of these services, and readers should check and evaluate these options based on their needs. 
+
+### Self-hostable, Open Source
+
+*	[Browsertrix Cloud](https://browsertrix.cloud/) - From [Webrecorder](https://webrecorder.net/), source available at <https://github.com/webrecorder/browsertrix-cloud>.
+*	[Conifer](https://conifer.rhizome.org/) - From [Rhizome](https://rhizome.org/), source available at <https://github.com/Rhizome-Conifer>.
+
+### Hosted, Closed Source
+
+* [Archive-It](https://archive-it.org/) - From the Internet Archive.
+* [Arkiwera](https://arkiwera.se/wp/websites/)
+*	[Hanzo](https://www.hanzo.co/chronicle)
+*	[MirrorWeb](https://www.mirrorweb.com/solutions/capabilities/website-archiving)
+*	[PageFreezer](https://www.pagefreezer.com/)
+*	[Smarsh](https://www.smarsh.com/platform/compliance-management/web-archive)

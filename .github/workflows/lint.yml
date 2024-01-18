@@ -11,7 +11,7 @@ jobs:
           fetch-depth: 0
       - uses: actions/setup-node@master
         with:
-          node-version: 12.x
+          node-version: 20.x
       - name: Install awesome-lint CLI
         run: npm install -g awesome-lint
       - name: Run Awesome Lint
