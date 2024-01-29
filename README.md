@@ -202,6 +202,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 ### Curation
 
+* [Linkwarden](https://linkwarden.app/) - An open-source collaborative bookmark manager to collect, organize and preserve webpages.
 * [Zotero Robust Links Extension](https://robustlinks.mementoweb.org/zotero/) - A [Zotero](https://www.zotero.org/) extension that submits to and reads from web archives. Source [on GitHub](https://github.com/lanl/Zotero-Robust-Links-Extension). Supercedes [leonkt/zotero-memento](https://github.com/leonkt/zotero-memento).
 
 ## Community Resources
