@@ -101,7 +101,7 @@ This list of tools and software is intended to briefly describe some of the most
 * [Web2Warc](https://github.com/helgeho/Web2Warc) - An easy-to-use and highly customizable crawler that enables anyone to create their own little Web archives (WARC/CDX). *(Stable)*
 * [Web Curator Tool](https://webcuratortool.org) - Open-source workflow management for selective web archiving. *(Stable)*
 * [WebMemex](https://github.com/WebMemex) - Browser extension for Firefox and Chrome which lets you archive web pages you visit. *(In Development)*
-* [Webrecorder](https://webrecorder.io/) - Create high-fidelity, interactive recordings of any web site you browse. *(Stable)*
+* [Conifer](https://conifer.rhizome.org/) - Create high-fidelity web archives through interactive browsing in a virtual machine. *(Stable)*
 * [Wget](http://www.gnu.org/software/wget/) - An open source file retrieval utility that of [version 1.14 supports writing warcs](http://www.archiveteam.org/index.php?title=Wget_with_WARC_output). *(Stable)*
 * [Wget-lua](https://github.com/alard/wget-lua) - Wget with Lua extension. *(Stable)*
 * [Wpull](https://github.com/chfoo/wpull) - A Wget-compatible (or remake/clone/replacement/alternative) web downloader and crawler. *(Stable)*
@@ -248,7 +248,7 @@ The intention is that we only list services that allow web archives to be export
 
 ### Self-hostable, Open Source
 
-*	[Browsertrix Cloud](https://browsertrix.cloud/) - From [Webrecorder](https://webrecorder.net/), source available at <https://github.com/webrecorder/browsertrix-cloud>.
+*	[Browsertrix](https://browsertrix.com/) - From [Webrecorder](https://webrecorder.net/), source available at <https://github.com/webrecorder/browsertrix>.
 *	[Conifer](https://conifer.rhizome.org/) - From [Rhizome](https://rhizome.org/), source available at <https://github.com/Rhizome-Conifer>.
 
 ### Hosted, Closed Source
