@@ -223,7 +223,7 @@ This list of tools and software is intended to briefly describe some of the most
 * [WS-DL Blog](https://ws-dl.blogspot.com/) - Web Science and Digital Libraries Research Group blogs about various Web archiving related topics, scholarly work, and academic trip reports.
 * [DSHR's Blog](https://blog.dshr.org/) - David Rosenthal regularly reviews and summarizes work done in the Digital Preservation field.
 * [UK Web Archive Blog](https://blogs.bl.uk/webarchive/)
-* [Common Crawl Foundation Blog](https://commoncrawl.org/blog) -- [rss](http://commoncrawl.org/blog/rss.xml)
+* [Common Crawl Foundation Blog](https://commoncrawl.org/blog) - [rss](http://commoncrawl.org/blog/rss.xml)
 
 ### Mailing Lists
 
