@@ -39,6 +39,7 @@ Web archiving is the process of collecting portions of the World Wide Web to ens
   * [IIPC and DPC Training materials: module for beginners (8 sessions)](https://netpreserve.org/web-archiving/training-materials/)
   * [UNT Web Archiving Course](https://github.com/vphill/web-archiving-course)
   * [Continuing Education to Advance Web Archiving (CEDWARC)](https://cedwarc.github.io/)
+  * [A Whirlwind Tour of Common Crawl's Datasets using Python](https://github.com/commoncrawl/whirlwind-python/)
 * The WARC Standard:
   * The [warc-specifications](https://iipc.github.io/warc-specifications/) community HTML version of the official specification and hub for new proposals.
   * The [offical ISO 28500 WARC specification homepage](http://bibnum.bnf.fr/WARC/).
@@ -222,6 +223,7 @@ This list of tools and software is intended to briefly describe some of the most
 * [WS-DL Blog](https://ws-dl.blogspot.com/) - Web Science and Digital Libraries Research Group blogs about various Web archiving related topics, scholarly work, and academic trip reports.
 * [DSHR's Blog](https://blog.dshr.org/) - David Rosenthal regularly reviews and summarizes work done in the Digital Preservation field.
 * [UK Web Archive Blog](https://blogs.bl.uk/webarchive/)
+* [Common Crawl Foundation Blog](https://commoncrawl.org/blog) -- [rss](http://www.commoncrawl.org/blog/rss.xml)
 
 ### Mailing Lists
 
@@ -235,6 +237,7 @@ This list of tools and software is intended to briefly describe some of the most
 * [IIPC Slack](https://iipc.slack.com/) - Ask [@netpreserve](https://twitter.com/NetPreserve?s=20) for access.
 * [Archives Unleashed Slack](https://archivesunleashed.slack.com/) - [Fill out this request form](http://slack.archivesunleashed.org/) for access to a researcher group of people working with web archives.
 * [Archivers Slack](https://archivers.slack.com) - [Invite yourself](https://archivers-slack.herokuapp.com/) to a multi-disciplinary effort for archiving projects run in affiliation with [EDGI](https://envirodatagov.org/archiving/) and [Data Together](http://datatogether.org/).
+* [Common Crawl Foundation Partners](ccfpartners.slack.com) (ask greg zat commoncrawl zot org for an invite)
 
 ### Twitter
 
