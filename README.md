@@ -52,7 +52,7 @@ Web archiving is the process of collecting portions of the World Wide Web to ens
 
 These resources can help when working with individuals or organisations who publish on the web, and who want to make sure their site can be archived.
 
-* [Definition of Web Archivability](https://nullhandle.org/web-archivability/index.html) (i.e., the ease with which web content can be preserved) by Nicholas Taylor, previously at the [Stanford Libraries](https://web.archive.org/web/20230728211501/https://library.stanford.edu/projects/web-archiving/archivability).
+* [Definition of Web Archivability](https://nullhandle.org/web-archivability/index.html) - This describes the ease with which web content can be preserved. ([Archived version from the Stanford Libraries](https://web.archive.org/web/20230728211501/https://library.stanford.edu/projects/web-archiving/archivability))
 * The [Archive Ready](http://archiveready.com/) tool, for estimating how likely a web page will be archived successfully.
 
 
