@@ -118,6 +118,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 ### Search & Discovery
 
+* [hyphe](https://github.com/medialab/hyphe#README](https://github.com/medialab/hyphe?tab=readme-ov-file#readme) - A webcrawler built for research uses with a graphical user interface in order to build web corpuses made of lists of web actors and maps of links between them. *(Stable)*
 * [Mink](https://github.com/machawk1/mink) - A [Google Chrome](https://www.google.com/intl/en/chrome/) extension for querying Memento aggregators while browsing and integrating live-archived web navigation. *(Stable)*
 *[PANDORÆ](https://github.com/Guillaume-Levrier/PANDORAE) - A desktop research software to be plugged on a Solr endpoint to query, retrieve, normalize and visually explore web archives. *(Stable)*
 <!--lint ignore double-link-->
