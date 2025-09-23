@@ -251,7 +251,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 ## Web Archiving Service Providers
 
-The intention is that we only list services that allow web archives to be exported in standard formats (WARC or WACZ). But this is not an endorsement of these services, and readers should check and evaluate these options based on their needs. 
+The intention is that we only list services that allow web archives to be exported in standard formats (WARC or WACZ). But this is not an endorsement of these services, and readers should check and evaluate these options based on their needs.
 
 ### Self-hostable, Open Source
 
