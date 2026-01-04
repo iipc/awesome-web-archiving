@@ -22,6 +22,7 @@ Web archiving is the process of collecting portions of the World Wide Web to ens
   * [Blogs and Scholarship](#blogs-and-scholarship)
   * [Mailing Lists](#mailing-lists)
   * [Slack](#slack)
+  * [Discord](#discord)
   * [Twitter](#twitter)
 * [Web Archiving Service Providers](#web-archiving-service-providers)
   * [Self-hostable, Open Source](#self-hostable-open-source)
@@ -243,8 +244,13 @@ This list of tools and software is intended to briefly describe some of the most
 * [Archivers Slack](https://archivers.slack.com) - [Invite yourself](https://archivers-slack.herokuapp.com/) to a multi-disciplinary effort for archiving projects run in affiliation with [EDGI](https://envirodatagov.org/archiving/) and [Data Together](http://datatogether.org/).
 * [Common Crawl Foundation Partners](https://ccfpartners.slack.com/) (ask greg zat commoncrawl zot org for an invite)
 
+### Discord
+
+* [Common Crawl Foundation](https://discord.gg/njaVFh7avF)
+
 ### Twitter
 
+* [@commoncrawl](https://twitter.com/commoncrawl) - Official Common Crawl Foundation handle.
 * [@NetPreserve](https://twitter.com/NetPreserve) - Official IIPC handle.
 * [@WebSciDL](https://twitter.com/WebSciDL) - ODU Web Science and Digital Libraries Research Group.
 * [#WebArchiving](https://twitter.com/search?q=%23webarchiving)
