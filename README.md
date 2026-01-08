@@ -263,7 +263,7 @@ The intention is that we only list services that allow web archives to be export
 ### Self-hostable, Open Source
 
 *	[Browsertrix](https://webrecorder.net/browsertrix/) - From [Webrecorder](https://webrecorder.net/), source available at <https://github.com/webrecorder/browsertrix>.
-*	[Conifer](https://conifer.rhizome.org/) - From [Rhizome](https://rhizome.org/), source available at <https://github.com/Rhizome-Conifer>.
+*	[Conifer](https://conifer.rhizome.org/) - From [Rhizome](https://rhizome.org/), source available at <https://github.com/Rhizome-Conifer>, [twilighted by June 2026](https://blog.conifer.rhizome.org/2025/12/15/twilight-announcement.html)
 
 ### Hosted, Closed Source
 
