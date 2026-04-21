@@ -7,6 +7,10 @@ Web archiving is the process of collecting portions of the World Wide Web to ens
 ## Contents
 
 * [Training/Documentation](#trainingdocumentation)
+  * [Introductions to Web Archiving Concepts](#introductions-to-web-archiving-concepts)
+  * [Training Materials](#training-materials)
+  * [The WARC Standard](#the-warc-standard)
+  * [For Researchers using Web Archives](#for-researchers-using-web-archives)
 * [Resources for Web Publishers](#resources-for-web-publishers)
 * [Tools & Software](#tools--software)
   * [Acquisition](#acquisition)
@@ -31,26 +35,35 @@ Web archiving is the process of collecting portions of the World Wide Web to ens
 
 ## Training/Documentation
 
-* Introductions to web archiving concepts:
-  * [What is a web archive?](https://youtu.be/ubDHY-ynWi0) - A video from [the UK Web Archive YouTube Channel](https://www.youtube.com/channel/UCJukhTSw8VRj-VNTpBcqWkw)
-  * [Wikipedia's List of Web Archiving Initiatives](https://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)
-  * [Glossary of Archive-It and Web Archiving Terms](https://support.archive-it.org/hc/en-us/articles/208111686-Glossary-of-Archive-It-and-Web-Archiving-Terms)
-  * [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/) - The Web Archiving Lifecycle Model is an attempt to incorporate the technological and programmatic arms of the web archiving into a framework that will be relevant to any organization seeking to archive content from the web. Archive-It, the web archiving service from the Internet Archive, developed the model based on its work with memory institutions around the world.
-  * [Retrieving and Archiving Information from Websites by Wael Eskandar and Brad Murray](https://kit.exposingtheinvisible.org/en/web-archive.html/)
-* Training materials:
-  * [IIPC and DPC Training materials: module for beginners (8 sessions)](https://netpreserve.org/web-archiving/training-materials/)
-  * [UNT Web Archiving Course](https://github.com/vphill/web-archiving-course)
-  * [Continuing Education to Advance Web Archiving (CEDWARC)](https://cedwarc.github.io/)
-  * [A Whirlwind Tour of Common Crawl's Datasets using Python](https://github.com/commoncrawl/whirlwind-python/)
-  * [A Whirlwind Tour of Common Crawl's Datasets as a Python notebook](https://github.com/commoncrawl/whirlwind-python-notebook)
-  * [A Whirlwind Tour of Common Crawl's Datasets using Java](https://github.com/commoncrawl/whirlwind-java/)
-* The WARC Standard:
-  * The [warc-specifications](https://iipc.github.io/warc-specifications/) community HTML version of the official specification and hub for new proposals.
-  * The [offical ISO 28500 WARC specification homepage](http://bibnum.bnf.fr/WARC/).
-* For researchers using web archives:
-  * [GLAM Workbench: Web Archives](https://glam-workbench.github.io/web-archives/) - See also [this related blog post on 'Asking questions with web archives'](https://netpreserveblog.wordpress.com/2020/05/28/asking-questions-with-web-archives/).
-  * [Archives Unleashed Toolkit documentation](https://aut.docs.archivesunleashed.org/)
-  * [Tutorial for Humanities researchers about how to explore Arquivo.pt](https://sobre.arquivo.pt/en/tutorial-for-humanities-researchers-about-how-to-use-arquivo-pt/)
+This section provides a curated list of training materials, documentation, and educational resources for those interested in learning about web archiving practices, methodologies, and tools.
+
+### Introductions to Web Archiving Concepts
+
+* [What is a web archive?](https://youtu.be/ubDHY-ynWi0) - A video from [the UK Web Archive YouTube Channel](https://www.youtube.com/channel/UCJukhTSw8VRj-VNTpBcqWkw)
+* [Wikipedia's List of Web Archiving Initiatives](https://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)
+* [Glossary of Archive-It and Web Archiving Terms](https://support.archive-it.org/hc/en-us/articles/208111686-Glossary-of-Archive-It-and-Web-Archiving-Terms)
+* [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/) - The Web Archiving Lifecycle Model is an attempt to incorporate the technological and programmatic arms of the web archiving into a framework that will be relevant to any organization seeking to archive content from the web. Archive-It, the web archiving service from the Internet Archive, developed the model based on its work with memory institutions around the world.
+* [Retrieving and Archiving Information from Websites by Wael Eskandar and Brad Murray](https://kit.exposingtheinvisible.org/en/web-archive.html/)
+
+### Training Materials
+
+* [IIPC and DPC Training materials: module for beginners (8 sessions)](https://netpreserve.org/web-archiving/training-materials/)
+* [UNT Web Archiving Course](https://github.com/vphill/web-archiving-course)
+* [Continuing Education to Advance Web Archiving (CEDWARC)](https://cedwarc.github.io/)
+* [A Whirlwind Tour of Common Crawl's Datasets using Python](https://github.com/commoncrawl/whirlwind-python/)
+* [A Whirlwind Tour of Common Crawl's Datasets as a Python notebook](https://github.com/commoncrawl/whirlwind-python-notebook)
+* [A Whirlwind Tour of Common Crawl's Datasets using Java](https://github.com/commoncrawl/whirlwind-java/)
+
+### The WARC Standard
+
+* [The warc-specifications](https://iipc.github.io/warc-specifications/) community HTML version of the official specification and hub for new proposals.
+* [The offical ISO 28500 WARC specification homepage](http://bibnum.bnf.fr/WARC/).
+
+### For Researchers using Web Archives
+
+* [GLAM Workbench: Web Archives](https://glam-workbench.github.io/web-archives/) - See also [this related blog post on 'Asking questions with web archives'](https://netpreserveblog.wordpress.com/2020/05/28/asking-questions-with-web-archives/).
+* [Archives Unleashed Toolkit documentation](https://aut.docs.archivesunleashed.org/)
+* [Tutorial for Humanities researchers about how to explore Arquivo.pt](https://sobre.arquivo.pt/en/tutorial-for-humanities-researchers-about-how-to-use-arquivo-pt/)
 
 ## Resources for Web Publishers
 
