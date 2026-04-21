@@ -42,6 +42,8 @@ Web archiving is the process of collecting portions of the World Wide Web to ens
   * [UNT Web Archiving Course](https://github.com/vphill/web-archiving-course)
   * [Continuing Education to Advance Web Archiving (CEDWARC)](https://cedwarc.github.io/)
   * [A Whirlwind Tour of Common Crawl's Datasets using Python](https://github.com/commoncrawl/whirlwind-python/)
+  * [A Whirlwind Tour of Common Crawl's Datasets as a Python notebook](https://github.com/commoncrawl/whirlwind-python-notebook)
+  * [A Whirlwind Tour of Common Crawl's Datasets using Java](https://github.com/commoncrawl/whirlwind-java/)
 * The WARC Standard:
   * The [warc-specifications](https://iipc.github.io/warc-specifications/) community HTML version of the official specification and hub for new proposals.
   * The [offical ISO 28500 WARC specification homepage](http://bibnum.bnf.fr/WARC/).
