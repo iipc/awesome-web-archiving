@@ -300,6 +300,7 @@ This is a list of publicly available WARCs, Wayback Machines, CDX API endpoints,
 
 * [Common Crawl files](https://data.commoncrawl.org/) - WARCs, CDX files, parquet url index, parquet host index, etc.
 * [Common Crawl CDX API](https://index.commoncrawl.org/)
+* [Dead-Web Index](https://github.com/Crawlora-org/dead-web-index-data) - Reachability labels (alive / blocked / dead) for the top 10 million domains, two probe arms (polite HTTP and a browser TLS fingerprint), 2026. CC BY 4.0, JSONL.
 * [End of Term Archive](https://eotarchive.org/) - WARCs, CDX files, parquet url index
 * [Internet Archive Wayback](https://web.archive.org/)
 * [Webrecorder US GovArchive](https://govarchive.us/) - high-fidelity replay
