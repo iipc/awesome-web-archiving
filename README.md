@@ -177,6 +177,7 @@ This list of tools and software is intended to briefly describe some of the most
 * [warcdb](https://github.com/florents-Tselai/warcdb) - A command line utility (Python) for importing WARC files into a SQLite database. *(Stable)*
 * [warcbench](https://github.com/harvard-lil/warcbench) - A tool for exploring, analyzing, transforming, recombining, and extracting data from WARC (Web ARChive) files.
 * [warcdedupe](https://gitlab.com/taricorp/warcdedupe) - WARC deduplication tool (and WARC library) written in Rust. *(In Development)*
+* [WARC Explorer](http://webdata.nb.no/warc-explorer/) - Browser-based inspector for WARC files and records (client-side).
 * [warc-safe](https://github.com/natliblux/warc-safe) - Automatic detection of viruses and NSFW content in WARC files.
 * [WarcPartitioner](https://github.com/helgeho/WarcPartitioner) - Partition (W)ARC Files by MIME Type and Year. *(Stable)*
 * [warcrefs](https://github.com/arcalex/warcrefs) - Web archive deduplication tools. *(Stable)*
@@ -299,8 +300,8 @@ The intention is that we only list services that allow web archives to be export
 This is a list of publicly available WARCs, Wayback Machines, CDX API endpoints, other indexes, and so on.
 
 * [Common Crawl files](https://data.commoncrawl.org/) - WARCs, CDX files, parquet url index, parquet host index, etc.
-* [Common Crawl CDX API](https://index.commoncrawl.org/) - Search Common Crawl's CDX URL index
-* [End of Term Archive](https://eotarchive.org/) - WARCs, CDX files, parquet url index
-* [Internet Archive Wayback](https://web.archive.org/web/) - Base URL for IA's Wayback Machine
-* [Webrecorder US GovArchive](https://govarchive.us/) - High-fidelity replay
-* [UK Government Web Archive](https://www.nationalarchives.gov.uk/webarchive/) - Main page for the UKGWA
+* [Common Crawl CDX API](https://index.commoncrawl.org/) - Search Common Crawl's CDX URL index.
+* [End of Term Archive](https://eotarchive.org/) - WARCs, CDX files, parquet url index.
+* [Internet Archive Wayback](https://web.archive.org/web/) - Base URL for IA's Wayback Machine.
+* [Webrecorder US GovArchive](https://govarchive.us/) - High-fidelity replay.
+* [UK Government Web Archive](https://www.nationalarchives.gov.uk/webarchive/) - Main page for the UKGWA.
