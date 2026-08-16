@@ -177,6 +177,7 @@ This list of tools and software is intended to briefly describe some of the most
 * [warcdb](https://github.com/florents-Tselai/warcdb) - A command line utility (Python) for importing WARC files into a SQLite database. *(Stable)*
 * [warcbench](https://github.com/harvard-lil/warcbench) - A tool for exploring, analyzing, transforming, recombining, and extracting data from WARC (Web ARChive) files.
 * [warcdedupe](https://gitlab.com/taricorp/warcdedupe) - WARC deduplication tool (and WARC library) written in Rust. *(In Development)*
+* [WARC Explorer](https://github.com/NationalLibraryofNorway/webdata-warc-explorer) - Browser-based inspector for WARC files and records (client-side).
 * [warc-safe](https://github.com/natliblux/warc-safe) - Automatic detection of viruses and NSFW content in WARC files.
 * [WarcPartitioner](https://github.com/helgeho/WarcPartitioner) - Partition (W)ARC Files by MIME Type and Year. *(Stable)*
 * [warcrefs](https://github.com/arcalex/warcrefs) - Web archive deduplication tools. *(Stable)*
