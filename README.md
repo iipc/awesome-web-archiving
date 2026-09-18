@@ -88,7 +88,7 @@ This list of tools and software is intended to briefly describe some of the most
 * [Auto Archiver](https://github.com/bellingcat/auto-archiver) - Python script to automatically archive social media posts, videos, and images from a Google Sheets document. Read the [article about Auto Archiver on bellingcat.com](https://www.bellingcat.com/resources/2022/09/22/preserve-vital-online-content-with-bellingcats-auto-archiver-tool/).
 * [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler) - A Chromium based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container. *(Stable)*
 * [Brozzler](https://github.com/internetarchive/brozzler) - A distributed web crawler (爬虫) that uses a real browser (Chrome or Chromium) to fetch pages and embedded urls and to extract links. *(Stable)*
-* [Cairn](https://github.com/wabarc/cairn) - A npm package and CLI tool for saving webpages. *(Stable)*
+* [Cairn](https://github.com/wabarc/cairn) - A npm package and CLI tool for saving webpages as single HTML files. It does not produce WARC or WACZ archives. *(Stable)*
 * [Chronicler](https://github.com/CGamesPlay/chronicler) - Web browser with record and replay functionality. *(In Development)*
 * [Community Archive](https://www.community-archive.org/) - Open Twitter Database and API with tools and resources for building on archived Twitter data.
 * [crau](https://github.com/turicas/crau) - A lightweight command-line tool for archiving the Web and playing archives: you just need a list of URLs. The name "crau" stems from the Brazilian pronounciation of "crawl". *(Stable)*
