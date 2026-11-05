@@ -184,6 +184,7 @@ This list of tools and software is intended to briefly describe some of the most
 * [warcrefs](https://github.com/arcalex/warcrefs) - Web archive deduplication tools. *(Stable)*
 * [webarchive-indexing](https://github.com/ikreymer/webarchive-indexing) - Tools for bulk indexing of WARC/ARC files on Hadoop, EMR or local file system.
 * [wikiteam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. *(Stable)*
+* [warc2zip](http://github.com/commoncrawl/warc2zip) - Tool for converting WARCs to zip files of captures, preserving metadata. *(Stable)*
 
 ### WARC I/O Libraries
 
