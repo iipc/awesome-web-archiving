@@ -213,6 +213,7 @@ This list of tools and software is intended to briefly describe some of the most
 * [Common Crawl Web Graph](https://commoncrawl.org/category/web-graph/) - A host or domain-level graph of the web, with ranking information. *(Stable)*
 * [Common Crawl Jupyter notebooks](https://github.com/commoncrawl/cc-notebooks) - A collection of notebooks using Common Crawl's various datasets. *(Stable)*
 * [Tweet Archvies Unleashed Toolkit](https://github.com/archivesunleashed/twut) - An open-source toolkit for analyzing line-oriented JSON Twitter archives with Apache Spark. *(In Development)*
+* [WayTrace](https://github.com/thomashousset/WayTrace) - Reconstructs a domain's history from its Wayback Machine captures (via the CDX API) and extracts dated findings such as emails, subdomains, exposed API keys, analytics and ad IDs, each linked to the capture it came from. *(Stable)*
 * [Web Data Commons](http://webdatacommons.org/) - Structured data extracted from Common Crawl. *(Stable)*
 
 ### Quality Assurance
