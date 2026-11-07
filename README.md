@@ -296,6 +296,7 @@ The intention is that we only list services that allow web archives to be export
 *	[MirrorWeb](https://www.mirrorweb.com/solutions/capabilities/website-archiving)
 *	[PageFreezer](https://www.pagefreezer.com/)
 *	[Smarsh](https://www.smarsh.com/platform/compliance-management/web-archive)
+*	[SnapshotArchive](https://snapshotarchive.com/) - Automated website monitoring and screenshot archiving service. Captures periodic snapshots of web pages with change detection and visual diff.
 
 ## Public Data
 
