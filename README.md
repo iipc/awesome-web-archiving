@@ -301,6 +301,7 @@ The intention is that we only list services that allow web archives to be export
 
 This is a list of publicly available WARCs, Wayback Machines, CDX API endpoints, other indexes, and so on.
 
+* [AI-bot robots.txt rules, Tranco top 1,000](https://huggingface.co/datasets/skaldanalytics/ai-bots-robots-txt-top1000) - How the robots.txt files of the Tranco top 1,000 domains treat 16 crawlers (CCBot, GPTBot, ClaudeBot, Googlebot and others), with the raw robots.txt files and the matched lines, fetched October 2026. CC BY 4.0, CSV and Parquet, DOI [10.5281/zenodo.23617047](https://doi.org/10.5281/zenodo.23617047).
 * [Common Crawl files](https://data.commoncrawl.org/) - WARCs, CDX files, parquet url index, parquet host index, etc.
 * [Common Crawl CDX API](https://index.commoncrawl.org/) - Search Common Crawl's CDX URL index.
 * [Dead-Web Index](https://github.com/Crawlora-org/dead-web-index-data) - Reachability labels (alive / blocked / dead) for the top 10 million domains, two probe arms (polite HTTP and a browser TLS fingerprint), 2026. CC BY 4.0, JSONL.
