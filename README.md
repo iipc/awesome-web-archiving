@@ -306,5 +306,6 @@ This is a list of publicly available WARCs, Wayback Machines, CDX API endpoints,
 * [Dead-Web Index](https://github.com/Crawlora-org/dead-web-index-data) - Reachability labels (alive / blocked / dead) for the top 10 million domains, two probe arms (polite HTTP and a browser TLS fingerprint), 2026. CC BY 4.0, JSONL.
 * [End of Term Archive](https://eotarchive.org/) - WARCs, CDX files, parquet url index.
 * [Internet Archive Wayback](https://web.archive.org/web/) - Base URL for IA's Wayback Machine.
+* [MachineWitness root log](https://machinewitness.eu/log) - One entry per sealed day of a daily archive of what about 128,000 EU domains serve to machines (robots.txt, ai.txt, TDM reservations, response headers), sealed into a Merkle root with a qualified eIDAS time stamp and a Bitcoin anchor by two independent witnesses, since July 2026. JSON at /log.json.
 * [Webrecorder US GovArchive](https://govarchive.us/) - High-fidelity replay.
 * [UK Government Web Archive](https://www.nationalarchives.gov.uk/webarchive/) - Main page for the UKGWA.
