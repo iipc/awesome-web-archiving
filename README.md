@@ -153,6 +153,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 ### Utilities
 
+* [@w-r-l/verify](https://www.npmjs.com/package/@w-r-l/verify) - CLI and library to verify cryptographic integrity of WRL WACZ web capture bundles. Checks Ed25519 signatures and RFC 3161 timestamps (Node.js). *(Stable)*
 * [ArchiveTools](https://github.com/recrm/ArchiveTools) - Collection of tools to extract and interact with WARC files (Python).
 * [bagnabit2warc](https://github.com/internetarchive/bagnabit2warc) - Convert a [bag-nabit](https://github.com/harvard-lil/bag-nabit) dataset stored in a ZIP into a full-content WARC.
 * [cdx-toolkit](https://pypi.org/project/cdx-toolkit/) - Library and CLI to consult cdx indexes and create WARC extractions of subsets. Abstracts away Common Crawl's unusual crawl structure. *(Stable)*
