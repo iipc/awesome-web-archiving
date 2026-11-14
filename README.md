@@ -120,6 +120,7 @@ This list of tools and software is intended to briefly describe some of the most
 * [Waybackpy](https://github.com/akamhy/waybackpy) -  Wayback Machine Save, CDX and availability API interface in Python and a command-line tool  *(Stable)*
 * [Web2Warc](https://github.com/helgeho/Web2Warc) - An easy-to-use and highly customizable crawler that enables anyone to create their own little Web archives (WARC/CDX). *(Stable)*
 * [Web Curator Tool](https://webcuratortool.org) - Open-source workflow management for selective web archiving. *(Stable)*
+* [Web Resource Ledger](https://github.com/benpeter/web-resource-ledger) - Captures web pages as verifiable evidence with Ed25519 signatures, RFC 3161 timestamps, and WACZ archives. Includes an MCP server for AI agent integration. *(Stable)*
 * [WebMemex](https://github.com/WebMemex) - Browser extension for Firefox and Chrome which lets you archive web pages you visit. *(In Development)*
 * [Wget](http://www.gnu.org/software/wget/) - An open source file retrieval utility that of [version 1.14 supports writing warcs](http://www.archiveteam.org/index.php?title=Wget_with_WARC_output). *(Stable)*
 * [Wget-lua](https://github.com/alard/wget-lua) - Wget with Lua extension. *(Stable)*
