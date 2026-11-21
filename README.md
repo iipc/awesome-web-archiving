@@ -296,6 +296,7 @@ The intention is that we only list services that allow web archives to be export
 *	[MirrorWeb](https://www.mirrorweb.com/solutions/capabilities/website-archiving)
 *	[PageFreezer](https://www.pagefreezer.com/)
 *	[Smarsh](https://www.smarsh.com/platform/compliance-management/web-archive)
+* [Tvarka Proof](https://proof.tvarka.pro/web-page-evidence/) - Web page captures sealed with a qualified timestamp. Each capture includes a WACZ archive.
 
 ## Public Data
 
