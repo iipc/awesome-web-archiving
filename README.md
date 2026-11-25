@@ -295,6 +295,7 @@ The intention is that we only list services that allow web archives to be export
 *	[Hanzo](https://www.hanzo.co/chronicle)
 *	[MirrorWeb](https://www.mirrorweb.com/solutions/capabilities/website-archiving)
 *	[PageFreezer](https://www.pagefreezer.com/)
+* [PageWitness](https://sentinelforensic.app) - Web evidence capture service exporting WARC; signed packs (SHA-256, RFC 3161 timestamps) verifiable offline with an open-source verifier.
 *	[Smarsh](https://www.smarsh.com/platform/compliance-management/web-archive)
 
 ## Public Data
